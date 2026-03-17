@@ -1,166 +1,166 @@
 {
   "app": {
-    "title": "Burnout Test",
-    "loading": "Loading...",
-    "skipLink": "Skip to main"
+    "title": "倦怠测试",
+    "loading": "加载中...",
+    "skipLink": "跳到主内容"
   },
   "meta": {
-    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
-    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
-    "og_title": "Burnout Test - What's Your Burnout Type?",
-    "og_description": "8 questions reveal your burnout type!",
-    "twitter_title": "Burnout Test - What's Your Burnout Type?",
-    "twitter_description": "8 questions reveal your burnout type!",
-    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+    "description": "你的倦怠类型是什么？通过8个问题发现你的职业和情感倦怠模式的病毒式测试！",
+    "keywords": "倦怠测试, 倦怠类型, 压力测试, 工作倦怠, 情感倦怠, 职业倦怠",
+    "og_title": "倦怠测试 - 你的倦怠类型是什么？",
+    "og_description": "8个问题揭示你的倦怠类型！",
+    "twitter_title": "倦怠测试 - 你的倦怠类型是什么？",
+    "twitter_description": "8个问题揭示你的倦怠类型！",
+    "page_title": "倦怠测试 - 你的倦怠类型是什么？ | DopaBrain"
   },
   "intro": {
-    "title": "Burnout Test",
-    "subtitle": "What's your burnout type?",
-    "social_proof": "people tested",
-    "feature_types": "6 burnout types",
-    "feature_questions": "8 stress scenarios",
-    "feature_metrics": "5 burnout dimensions",
-    "time_estimate": "Takes about 1 minute"
+    "title": "倦怠测试",
+    "subtitle": "你的倦怠类型是什么？",
+    "social_proof": "人已测试",
+    "feature_types": "6种倦怠类型",
+    "feature_questions": "8个压力场景",
+    "feature_metrics": "5个倦怠维度",
+    "time_estimate": "大约需要1分钟"
   },
   "button": {
-    "start": "Discover Your Burnout Type",
-    "retry": "Try Again",
+    "start": "发现你的倦怠类型",
+    "retry": "重新测试",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
-    "share_copy": "Copy Link"
+    "share_copy": "复制链接"
   },
   "question": {
-    "0": "How do you spend your weekends?",
-    "0a": "Catching up on work I didn't finish during the week",
-    "0b": "Helping friends/family with their problems",
-    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
-    "0d": "Resting, but feeling guilty I'm not being productive",
+    "0": "你如何度过周末？",
+    "0a": "补完工作日没做完的工作",
+    "0b": "帮朋友/家人解决他们的问题",
+    "0c": "漫无目的地刷手机，太无聊而无法做有意义的事",
+    "0d": "休息着，但因为没有生产力而感到内疚",
 
-    "1": "How do you feel first thing in the morning?",
-    "1a": "Already checking emails before my feet hit the floor",
-    "1b": "Dread. Just pure dread for the day ahead.",
-    "1c": "Uninspired. Another day of the same routine.",
-    "1d": "Disconnected, like I'm on autopilot",
+    "1": "早上醒来第一时间的感觉是什么？",
+    "1a": "脚还没落地就已经在查邮件了",
+    "1b": "恐惧。对即将到来的一天纯粹的恐惧。",
+    "1c": "没有激情。又是同样例行公事的一天。",
+    "1d": "脱节，像是在自动驾驶模式",
 
-    "2": "A colleague needs support. What's your response?",
-    "2a": "Drop everything to emotionally support them",
-    "2b": "Offer to help with tasks (easier than feelings)",
-    "2c": "Avoid interaction, I have nothing left to give",
-    "2d": "Listen politely but feel completely empty inside",
+    "2": "同事需要支持。你的反应是？",
+    "2a": "放下一切去给予他们情感支持",
+    "2b": "提供帮助处理任务（比处理感情容易）",
+    "2c": "避免互动，我已经没有什么可给的了",
+    "2d": "礼貌地倾听但内心完全空虚",
 
-    "3": "You get a work notification after hours. What happens?",
-    "3a": "Respond immediately—boundaries are a myth",
-    "3b": "Ignore it but feel anxious about it all night",
-    "3c": "Feel annoyed that my personal time is interrupted",
-    "3d": "Feel drained by the constant digital intrusion",
+    "3": "下班后收到工作通知。会发生什么？",
+    "3a": "立即回复——边界是个神话",
+    "3b": "忽略它但整晚都为此焦虑",
+    "3c": "对个人时间被打扰感到恼火",
+    "3d": "对持续的数字入侵感到精疲力竭",
 
-    "4": "You finish a big task. How do you feel?",
-    "4a": "Nothing feels like enough, already thinking about what's next",
-    "4b": "Push myself harder to prove my worth",
-    "4c": "Feel absolutely nothing. No satisfaction.",
-    "4d": "Can't find the spark I used to have for my work",
+    "4": "你完成了一项大任务。感觉如何？",
+    "4a": "没有什么是足够的，已经在想下一步要做什么",
+    "4b": "更努力地推动自己来证明自己的价值",
+    "4c": "完全没有感觉。零满足感。",
+    "4d": "找不到以前对工作的那种激情了",
 
-    "5": "How are your creative ideas lately?",
-    "5a": "Completely dried up. The well is empty.",
-    "5b": "I don't care anymore. Ideas feel pointless.",
-    "5c": "Force myself to produce even when uninspired",
-    "5d": "Give my ideas away because I'm too tired to execute",
+    "5": "最近的创意想法怎么样？",
+    "5a": "完全枯竭了。井已经干了。",
+    "5b": "我不再在乎了。想法感觉毫无意义。",
+    "5c": "即使没有灵感也强迫自己产出",
+    "5d": "把我的想法送人因为我太累了无法执行",
 
-    "6": "Where does your energy come from these days?",
-    "6a": "Pure caffeine and sheer willpower",
-    "6b": "Faking it. I pretend I'm fine when I'm not.",
-    "6c": "Nowhere. I'm completely depleted.",
-    "6d": "Screen time paradoxically drains me more",
+    "6": "这些天你的能量来自哪里？",
+    "6a": "纯粹的咖啡因和强大的意志力",
+    "6b": "假装。我假装没事但其实不是。",
+    "6c": "无处。我已经完全耗尽了。",
+    "6d": "屏幕时间矛盾地让我更疲惫",
 
-    "7": "How do you feel about your work's purpose?",
-    "7a": "Lost all sense of meaning or why I'm doing this",
-    "7b": "Constantly trying to prove my worth and value",
-    "7c": "Only find purpose in helping others, not myself",
-    "7d": "Going through the motions without real connection"
+    "7": "你如何看待工作的意义？",
+    "7a": "完全失去了意义感或为什么要做这个",
+    "7b": "不断试图证明我的价值",
+    "7c": "只在帮助别人而不是自己中找到目的",
+    "7d": "走过场而没有真正的联系"
   },
   "analyzing": {
-    "title": "Analyzing your burnout patterns...",
-    "scanning": "Scanning stress levels...",
-    "matching": "Matching with burnout types...",
-    "comparing": "Comparing recovery patterns...",
-    "complete": "Analysis complete!"
+    "title": "正在分析你的倦怠模式...",
+    "scanning": "扫描压力水平...",
+    "matching": "匹配倦怠类型...",
+    "comparing": "比较恢复模式...",
+    "complete": "分析完成！"
   },
   "result": {
-    "your_type": "Your Burnout Type",
-    "burnout_metrics": "Burnout Dimensions",
-    "key_traits": "Key Patterns",
-    "moreTests": "Explore More",
-    "share": "Share Your Result",
-    "percentile": "Only {pct} of all participants experience {type} burnout"
+    "your_type": "你的倦怠类型",
+    "burnout_metrics": "倦怠维度",
+    "key_traits": "关键模式",
+    "moreTests": "探索更多",
+    "share": "分享你的结果",
+    "percentile": "所有参与者中只有{pct}经历{type}倦怠"
   },
   "metric": {
-    "workload": "Workload",
-    "emotionalDrain": "Emotional Drain",
-    "cynicism": "Cynicism",
-    "efficacy": "Efficacy",
-    "recovery": "Recovery"
+    "workload": "工作量",
+    "emotionalDrain": "情感消耗",
+    "cynicism": "愤世嫉俗",
+    "efficacy": "效能",
+    "recovery": "恢复力"
   },
   "type": {
     "overachiever": {
-      "name": "Overachiever Burnout",
-      "tagline": "Perfectionism meets chronic overwork",
-      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
-      "trait1": "Rest feels like weakness",
-      "trait2": "Never enough achievement",
-      "trait3": "Productivity = worth"
+      "name": "过度成就者倦怠",
+      "tagline": "完美主义遭遇慢性过劳",
+      "description": "你围绕成就建立了自己的身份，但标准不断提高。休息感觉像失败。你在疲惫中坚持，因为停下来意味着面对可怕的问题：没有生产力的你是谁？你在靠蒸汽运行，但你无法减速，因为你的自我价值与产出绑定在一起。",
+      "trait1": "休息感觉像软弱",
+      "trait2": "成就永远不够",
+      "trait3": "生产力=价值"
     },
     "empathy": {
-      "name": "Empathy Burnout",
-      "tagline": "Emotional labor has drained your tank",
-      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
-      "trait1": "Others' emotions drain you",
-      "trait2": "Caregiver with no care",
-      "trait3": "Compassion fatigue"
+      "name": "共情倦怠",
+      "tagline": "情感劳动已耗尽你的能量",
+      "description": "你一直是别人的坚石，而你自己的基础却在崩溃。关怀职业、照顾者角色，或只是做'治疗师朋友'让你情感破产。你吸收别人的痛苦，但没有人填满你的杯子。同情疲劳不是软弱——这是当你给予超过你所拥有的时会发生的事。",
+      "trait1": "他人的情绪耗尽你",
+      "trait2": "无人照顾的照顾者",
+      "trait3": "同情疲劳"
     },
     "boredom": {
-      "name": "Boredom Burnout",
-      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
-      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
-      "trait1": "Chronic under-stimulation",
-      "trait2": "Meaning has evaporated",
-      "trait3": "Checked out mentally"
+      "name": "无聊倦怠",
+      "tagline": "重复任务，零成长，压垮灵魂的单调",
+      "description": "你不是过劳——你是挑战不足。同样的任务、同样的会议、同样的虚无日复一日。你精神上已经退出，因为没有什么可参与的了。这不是懒惰；这是你的大脑因慢性刺激不足而关闭。你正在因停滞而腐烂。",
+      "trait1": "慢性刺激不足",
+      "trait2": "意义已蒸发",
+      "trait3": "精神上已退出"
     },
     "invisible": {
-      "name": "Invisible Burnout",
-      "tagline": "High-functioning on the outside, collapsing inside",
-      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
-      "trait1": "Masked exhaustion",
-      "trait2": "High-functioning facade",
-      "trait3": "Invisible suffering"
+      "name": "隐形倦怠",
+      "tagline": "外表高功能，内心正在崩溃",
+      "description": "你看起来很好。你表现良好。没有人知道你勉强维持着。你已经掌握了外表光鲜的艺术，而内心却在尖叫。这是最危险的倦怠，因为它是隐藏的——甚至对你自己。你在众目睽睽之下溺水。",
+      "trait1": "掩盖的疲惫",
+      "trait2": "高功能外表",
+      "trait3": "隐形的痛苦"
     },
     "creative": {
-      "name": "Creative Burnout",
-      "tagline": "The well of ideas has run dry",
-      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
-      "trait1": "Inspiration has vanished",
-      "trait2": "Forced creativity",
-      "trait3": "Identity crisis"
+      "name": "创意倦怠",
+      "tagline": "创意之井已经干涸",
+      "description": "你曾经充满灵感。现在，什么都没有了。火花消失了。每次尝试创作都感觉被迫、空洞、表演性的。你不是被阻塞——你是被耗尽了。你的创意身份正在崩溃，因为你把一切都给了项目、客户和需求，没有留下任何东西给曾经点亮你的工作。",
+      "trait1": "灵感已消失",
+      "trait2": "强迫创作",
+      "trait3": "身份危机"
     },
     "digital": {
-      "name": "Digital Burnout",
-      "tagline": "Always online, never recharged",
-      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
-      "trait1": "Screen time overload",
-      "trait2": "Never offline",
-      "trait3": "Digital exhaustion"
+      "name": "数字倦怠",
+      "tagline": "永远在线，从未充电",
+      "description": "屏幕疲劳。通知过载。信息雪崩。你永久插电，这正在烧毁你的电路。末日滚动、持续连接以及总是必须回应的压力让你精神疲惫。你倦怠不是因为工作太努力，而是因为从未真正断开连接。",
+      "trait1": "屏幕时间过载",
+      "trait2": "从不离线",
+      "trait3": "数字疲惫"
     }
   },
   "share": {
-    "text": "My burnout type is '{type}'! What's yours?"
+    "text": "我的倦怠类型是'{type}'！你的呢？"
   },
   "related": {
-    "stressCheck": "Stress Check",
-    "hspTest": "HSP Test",
-    "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "stressCheck": "压力检查",
+    "hspTest": "HSP测试",
+    "dopamineType": "多巴胺类型",
+    "overthinkerTest": "过度思考者测试"
   },
   "game": {
-    "back": "DopaBrain Home"
+    "back": "DopaBrain 主页"
   }
 }
