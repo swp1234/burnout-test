@@ -36,43 +36,36 @@
     "0b": "Ich helfe Freunden/Familie mit ihren Problemen",
     "0c": "Gedankenlos scrollen, zu gelangweilt für etwas Sinnvolles",
     "0d": "Ausruhen, aber mit Schuldgefühlen, weil ich nicht produktiv bin",
-
     "1": "Wie fühlst du dich morgens als Erstes?",
     "1a": "Ich checke schon E-Mails, bevor ich aus dem Bett steige",
     "1b": "Angst. Einfach pure Angst vor dem kommenden Tag.",
     "1c": "Uninspiriert. Noch ein Tag der gleichen Routine.",
     "1d": "Abgetrennt, als wäre ich auf Autopilot",
-
     "2": "Ein Kollege braucht Unterstützung. Wie reagierst du?",
     "2a": "Alles stehen und liegen lassen, um emotional zu unterstützen",
     "2b": "Hilfe bei Aufgaben anbieten (einfacher als Gefühle)",
     "2c": "Interaktion vermeiden, ich habe nichts mehr zu geben",
     "2d": "Höflich zuhören, mich aber innerlich komplett leer fühlen",
-
     "3": "Du bekommst nach Feierabend eine Arbeitsbenachrichtigung. Was passiert?",
     "3a": "Sofort antworten — Grenzen sind ein Mythos",
     "3b": "Ignorieren, aber die ganze Nacht deswegen ängstlich sein",
     "3c": "Genervt sein, dass meine persönliche Zeit unterbrochen wird",
     "3d": "Erschöpft fühlen durch die ständige digitale Störung",
-
     "4": "Du hast eine große Aufgabe erledigt. Wie fühlst du dich?",
     "4a": "Nichts fühlt sich je genug an, ich denke schon an das Nächste",
     "4b": "Mich noch härter antreiben, um meinen Wert zu beweisen",
     "4c": "Absolut nichts fühlen. Keine Zufriedenheit.",
     "4d": "Den Funken nicht mehr finden, den ich früher für meine Arbeit hatte",
-
     "5": "Wie steht es um deine kreativen Ideen in letzter Zeit?",
     "5a": "Völlig versiegt. Der Brunnen ist leer.",
     "5b": "Es ist mir egal. Ideen fühlen sich sinnlos an.",
     "5c": "Mich zwingen zu produzieren, auch wenn ich nicht inspiriert bin",
     "5d": "Meine Ideen verschenken, weil ich zu müde bin, sie umzusetzen",
-
     "6": "Woher kommt deine Energie in letzter Zeit?",
     "6a": "Pures Koffein und schiere Willenskraft",
     "6b": "Vortäuschen. Ich tue so, als wäre alles in Ordnung, aber ist es nicht.",
     "6c": "Nirgendwoher. Ich bin komplett erschöpft.",
     "6d": "Bildschirmzeit macht mich paradoxerweise noch erschöpfter",
-
     "7": "Wie fühlst du dich über den Sinn deiner Arbeit?",
     "7a": "Jegliches Gefühl für Sinn oder warum ich das mache, verloren",
     "7b": "Ständig versuchen, meinen Wert zu beweisen",
@@ -158,7 +151,8 @@
     "stressCheck": "Stress-Check",
     "hspTest": "HSP-Test",
     "dopamineType": "Dopamin-Typ",
-    "overthinkerTest": "Grübler-Test"
+    "overthinkerTest": "Grübler-Test",
+    "stressResponse": "Stressreaktion"
   },
   "game": {
     "back": "DopaBrain Startseite"

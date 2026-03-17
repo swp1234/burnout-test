@@ -36,43 +36,36 @@
     "0b": "À aider mes amis/ma famille avec leurs problèmes",
     "0c": "À scroller sans but, trop ennuyé(e) pour faire quoi que ce soit de constructif",
     "0d": "À me reposer, mais en culpabilisant de ne pas être productif/ve",
-
     "1": "Que ressentez-vous au réveil le matin ?",
     "1a": "Je vérifie déjà mes emails avant même de me lever",
     "1b": "De l'effroi. Juste de la pure appréhension pour la journée à venir.",
     "1c": "Aucune inspiration. Encore une journée de la même routine.",
     "1d": "Déconnecté(e), comme si j'étais en pilote automatique",
-
     "2": "Un(e) collègue a besoin de soutien. Quelle est votre réaction ?",
     "2a": "Tout lâcher pour le/la soutenir émotionnellement",
     "2b": "Proposer de l'aide sur des tâches (plus facile que les émotions)",
     "2c": "Éviter l'interaction, je n'ai plus rien à donner",
     "2d": "Écouter poliment mais me sentir complètement vide à l'intérieur",
-
     "3": "Vous recevez une notification de travail en dehors des heures. Que se passe-t-il ?",
     "3a": "Je réponds immédiatement — les limites sont un mythe",
     "3b": "Je l'ignore mais j'angoisse toute la nuit",
     "3c": "Je suis agacé(e) que mon temps personnel soit interrompu",
     "3d": "Je me sens épuisé(e) par l'intrusion numérique constante",
-
     "4": "Vous terminez une tâche importante. Comment vous sentez-vous ?",
     "4a": "Rien ne semble jamais suffisant, je pense déjà à la suite",
     "4b": "Je me pousse encore plus pour prouver ma valeur",
     "4c": "Je ne ressens absolument rien. Aucune satisfaction.",
     "4d": "Je ne retrouve plus l'étincelle que j'avais pour mon travail",
-
     "5": "Comment vont vos idées créatives dernièrement ?",
     "5a": "Complètement taries. Le puits est vide.",
     "5b": "Je m'en fiche. Les idées me semblent inutiles.",
     "5c": "Je me force à produire même sans inspiration",
     "5d": "Je donne mes idées aux autres car je suis trop fatigué(e) pour les réaliser",
-
     "6": "D'où tirez-vous votre énergie ces derniers temps ?",
     "6a": "Pure caféine et volonté pure",
     "6b": "En faisant semblant. Je prétends que ça va alors que non.",
     "6c": "De nulle part. Je suis complètement vidé(e).",
     "6d": "Le temps d'écran me draine paradoxalement encore plus",
-
     "7": "Que ressentez-vous par rapport au sens de votre travail ?",
     "7a": "J'ai perdu tout sens de pourquoi je fais ça",
     "7b": "Je cherche constamment à prouver ma valeur",
@@ -158,7 +151,8 @@
     "stressCheck": "Bilan Stress",
     "hspTest": "Test HSP",
     "dopamineType": "Type de Dopamine",
-    "overthinkerTest": "Test de Surréflexion"
+    "overthinkerTest": "Test de Surréflexion",
+    "stressResponse": "Réponse au Stress"
   },
   "game": {
     "back": "Accueil DopaBrain"

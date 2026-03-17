@@ -36,43 +36,36 @@
     "0b": "Helping friends/family with their problems",
     "0c": "Scrolling mindlessly, too bored to do anything meaningful",
     "0d": "Resting, but feeling guilty I'm not being productive",
-
     "1": "How do you feel first thing in the morning?",
     "1a": "Already checking emails before my feet hit the floor",
     "1b": "Dread. Just pure dread for the day ahead.",
     "1c": "Uninspired. Another day of the same routine.",
     "1d": "Disconnected, like I'm on autopilot",
-
     "2": "A colleague needs support. What's your response?",
     "2a": "Drop everything to emotionally support them",
     "2b": "Offer to help with tasks (easier than feelings)",
     "2c": "Avoid interaction, I have nothing left to give",
     "2d": "Listen politely but feel completely empty inside",
-
     "3": "You get a work notification after hours. What happens?",
     "3a": "Respond immediately—boundaries are a myth",
     "3b": "Ignore it but feel anxious about it all night",
     "3c": "Feel annoyed that my personal time is interrupted",
     "3d": "Feel drained by the constant digital intrusion",
-
     "4": "You finish a big task. How do you feel?",
     "4a": "Nothing feels like enough, already thinking about what's next",
     "4b": "Push myself harder to prove my worth",
     "4c": "Feel absolutely nothing. No satisfaction.",
     "4d": "Can't find the spark I used to have for my work",
-
     "5": "How are your creative ideas lately?",
     "5a": "Completely dried up. The well is empty.",
     "5b": "I don't care anymore. Ideas feel pointless.",
     "5c": "Force myself to produce even when uninspired",
     "5d": "Give my ideas away because I'm too tired to execute",
-
     "6": "Where does your energy come from these days?",
     "6a": "Pure caffeine and sheer willpower",
     "6b": "Faking it. I pretend I'm fine when I'm not.",
     "6c": "Nowhere. I'm completely depleted.",
     "6d": "Screen time paradoxically drains me more",
-
     "7": "How do you feel about your work's purpose?",
     "7a": "Lost all sense of meaning or why I'm doing this",
     "7b": "Constantly trying to prove my worth and value",
@@ -158,7 +151,8 @@
     "stressCheck": "Stress Check",
     "hspTest": "HSP Test",
     "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "overthinkerTest": "Overthinker Test",
+    "stressResponse": "Stress Response"
   },
   "game": {
     "back": "DopaBrain Home"

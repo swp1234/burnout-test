@@ -36,43 +36,36 @@
     "0b": "Ajudando amigos/família com seus problemas",
     "0c": "Rolando o feed sem rumo, entediado(a) demais para fazer algo útil",
     "0d": "Descansando, mas me sentindo culpado(a) por não ser produtivo(a)",
-
     "1": "Como você se sente ao acordar de manhã?",
     "1a": "Já estou verificando e-mails antes de sair da cama",
     "1b": "Pavor. Puro pavor do dia que vem pela frente.",
     "1c": "Sem inspiração. Mais um dia da mesma rotina.",
     "1d": "Desconectado(a), como se estivesse no piloto automático",
-
     "2": "Um colega precisa de apoio. Qual é sua resposta?",
     "2a": "Largo tudo para dar suporte emocional",
     "2b": "Ofereço ajuda com tarefas (é mais fácil do que lidar com sentimentos)",
     "2c": "Evito interação, não tenho mais nada para dar",
     "2d": "Ouço educadamente, mas me sinto completamente vazio(a) por dentro",
-
     "3": "Você recebe uma notificação de trabalho fora do expediente. O que acontece?",
     "3a": "Respondo imediatamente — limites são um mito",
     "3b": "Ignoro, mas fico ansioso(a) a noite inteira",
     "3c": "Fico irritado(a) por interromperem meu tempo pessoal",
     "3d": "Me sinto esgotado(a) pela constante intrusão digital",
-
     "4": "Você termina uma tarefa importante. Como se sente?",
     "4a": "Nada parece suficiente, já estou pensando no próximo passo",
     "4b": "Me cobro ainda mais para provar meu valor",
     "4c": "Não sinto absolutamente nada. Nenhuma satisfação.",
     "4d": "Não consigo encontrar aquela faísca que eu tinha pelo meu trabalho",
-
     "5": "Como estão suas ideias criativas ultimamente?",
     "5a": "Completamente secas. O poço está vazio.",
     "5b": "Não me importo mais. Ideias parecem inúteis.",
     "5c": "Me forço a produzir mesmo sem inspiração",
     "5d": "Dou minhas ideias para outros porque estou cansado(a) demais para executar",
-
     "6": "De onde vem sua energia ultimamente?",
     "6a": "Pura cafeína e força de vontade",
     "6b": "Fingindo. Finjo que estou bem quando não estou.",
     "6c": "De lugar nenhum. Estou completamente esgotado(a).",
     "6d": "O tempo de tela paradoxalmente me esgota mais ainda",
-
     "7": "Como você se sente sobre o propósito do seu trabalho?",
     "7a": "Perdi todo o sentido de propósito ou por que estou fazendo isso",
     "7b": "Constantemente tentando provar meu valor",
@@ -158,7 +151,8 @@
     "stressCheck": "Teste de Estresse",
     "hspTest": "Teste PAS",
     "dopamineType": "Tipo de Dopamina",
-    "overthinkerTest": "Teste de Overthinking"
+    "overthinkerTest": "Teste de Overthinking",
+    "stressResponse": "Resposta ao Estresse"
   },
   "game": {
     "back": "Início DopaBrain"

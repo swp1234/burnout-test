@@ -36,43 +36,36 @@
     "0b": "Membantu teman/keluarga dengan masalah mereka",
     "0c": "Scroll tanpa tujuan, terlalu bosan untuk melakukan sesuatu yang berarti",
     "0d": "Istirahat, tapi merasa bersalah karena tidak produktif",
-
     "1": "Bagaimana perasaanmu saat pertama kali bangun pagi?",
     "1a": "Sudah mengecek email sebelum turun dari tempat tidur",
     "1b": "Takut. Rasa takut murni menghadapi hari yang akan datang.",
     "1c": "Tidak terinspirasi. Hari yang sama dengan rutinitas yang sama lagi.",
     "1d": "Merasa terputus, seperti berjalan dengan autopilot",
-
     "2": "Seorang rekan kerja butuh dukungan. Apa responsmu?",
     "2a": "Tinggalkan segalanya untuk mendukung mereka secara emosional",
     "2b": "Menawarkan bantuan dengan tugas (lebih mudah daripada urusan perasaan)",
     "2c": "Menghindari interaksi, aku sudah tidak punya apa-apa lagi untuk diberikan",
     "2d": "Mendengarkan dengan sopan tapi merasa benar-benar kosong di dalam",
-
     "3": "Kamu mendapat notifikasi kerja di luar jam kerja. Apa yang terjadi?",
     "3a": "Langsung merespons — batasan itu mitos",
     "3b": "Mengabaikannya tapi merasa cemas sepanjang malam",
     "3c": "Merasa kesal karena waktu pribadiku diganggu",
     "3d": "Merasa terkuras oleh gangguan digital yang terus-menerus",
-
     "4": "Kamu menyelesaikan tugas besar. Bagaimana perasaanmu?",
     "4a": "Tidak ada yang terasa cukup, sudah memikirkan apa selanjutnya",
     "4b": "Mendorong diri lebih keras untuk membuktikan nilai diri",
     "4c": "Tidak merasakan apa-apa. Sama sekali tidak ada kepuasan.",
     "4d": "Tidak bisa menemukan semangat yang dulu aku rasakan untuk pekerjaanku",
-
     "5": "Bagaimana ide-ide kreatifmu akhir-akhir ini?",
     "5a": "Benar-benar kering. Sumurnya sudah kosong.",
     "5b": "Aku sudah tidak peduli lagi. Ide-ide terasa sia-sia.",
     "5c": "Memaksa diri untuk berkarya meskipun tidak terinspirasi",
     "5d": "Memberikan ide-ideku karena terlalu lelah untuk mengeksekusi",
-
     "6": "Dari mana energimu berasal akhir-akhir ini?",
     "6a": "Murni kafein dan kekuatan tekad",
     "6b": "Berpura-pura. Aku pura-pura baik-baik saja padahal tidak.",
     "6c": "Dari mana pun tidak ada. Aku benar-benar habis.",
     "6d": "Waktu layar secara paradoks malah membuatku lebih terkuras",
-
     "7": "Bagaimana perasaanmu tentang tujuan pekerjaanmu?",
     "7a": "Kehilangan semua makna atau alasan mengapa aku melakukan ini",
     "7b": "Terus-menerus berusaha membuktikan nilai dan kemampuanku",
@@ -158,7 +151,8 @@
     "stressCheck": "Cek Stres",
     "hspTest": "Tes HSP",
     "dopamineType": "Tipe Dopamin",
-    "overthinkerTest": "Tes Overthinking"
+    "overthinkerTest": "Tes Overthinking",
+    "stressResponse": "Respons Stres"
   },
   "game": {
     "back": "Beranda DopaBrain"

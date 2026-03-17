@@ -36,43 +36,36 @@
     "0b": "Arkadaşlarıma/aileme sorunlarında yardım ediyorum",
     "0c": "Anlamsızca ekranı kaydırıyorum, anlamlı bir şey yapmak için çok sıkılmış haldeyim",
     "0d": "Dinleniyorum ama üretken olmadığım için suçluluk duyuyorum",
-
     "1": "Sabah uyandığında ilk ne hissediyorsun?",
     "1a": "Yataktan kalkmadan e-postalarımı kontrol ediyorum bile",
     "1b": "Korku. Sadece günün geleceğine dair saf bir korku.",
     "1c": "İlhamsız. Aynı rutinin bir günü daha.",
     "1d": "Kopuk, sanki otopilottaymışım gibi",
-
     "2": "Bir iş arkadaşının desteğe ihtiyacı var. Tepkin ne?",
     "2a": "Her şeyi bırakıp duygusal olarak destek oluyorum",
     "2b": "Görevlerde yardım teklif ediyorum (duygularla uğraşmaktan daha kolay)",
     "2c": "Etkileşimden kaçınıyorum, verecek hiçbir şeyim kalmadı",
     "2d": "Kibar bir şekilde dinliyorum ama içten içe tamamen boş hissediyorum",
-
     "3": "Mesai sonrası bir iş bildirimi alıyorsun. Ne olur?",
     "3a": "Hemen yanıtlıyorum — sınırlar bir efsane",
     "3b": "Görmezden geliyorum ama bütün gece onun için endişeleniyorum",
     "3c": "Kişisel zamanımın bölünmesine sinirleniyorum",
     "3d": "Sürekli dijital müdahaleden tükenmiş hissediyorum",
-
     "4": "Büyük bir görevi bitirdin. Nasıl hissediyorsun?",
     "4a": "Hiçbir şey yeterli gelmiyor, zaten sıradakini düşünüyorum",
     "4b": "Değerimi kanıtlamak için kendimi daha da zorluyorum",
     "4c": "Kesinlikle hiçbir şey hissetmiyorum. Tatmin yok.",
     "4d": "İşime karşı hissettiğim o eski kıvılcımı bulamıyorum",
-
     "5": "Son zamanlarda yaratıcı fikirlerin nasıl?",
     "5a": "Tamamen kurudu. Kuyu boş.",
     "5b": "Artık umurumda değil. Fikirler anlamsız geliyor.",
     "5c": "İlham almadan bile üretmeye kendimi zorluyorum",
     "5d": "Fikirlerimi başkalarına veriyorum çünkü uygulamak için çok yorgunum",
-
     "6": "Son zamanlarda enerjin nereden geliyor?",
     "6a": "Saf kafein ve irade gücü",
     "6b": "Numara yaparak. İyi olduğumu iddia ediyorum ama değilim.",
     "6c": "Hiçbir yerden. Tamamen tükendim.",
     "6d": "Ekran süresi paradoksal olarak beni daha da tüketiyor",
-
     "7": "İşinin amacı hakkında ne hissediyorsun?",
     "7a": "Bunu neden yaptığıma dair tüm anlam duygusunu yitirdim",
     "7b": "Sürekli değerimi ve yeterliliğimi kanıtlamaya çalışıyorum",
@@ -158,7 +151,8 @@
     "stressCheck": "Stres Kontrolü",
     "hspTest": "HSP Testi",
     "dopamineType": "Dopamin Tipi",
-    "overthinkerTest": "Aşırı Düşünme Testi"
+    "overthinkerTest": "Aşırı Düşünme Testi",
+    "stressResponse": "Stres Tepkisi"
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"

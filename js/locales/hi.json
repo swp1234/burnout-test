@@ -151,7 +151,8 @@
     "stressCheck": "स्ट्रेस चेक",
     "hspTest": "HSP टेस्ट",
     "dopamineType": "डोपामाइन टाइप",
-    "overthinkerTest": "ओवरथिंकर टेस्ट"
+    "overthinkerTest": "ओवरथिंकर टेस्ट",
+    "stressResponse": "तनाव प्रतिक्रिया"
   },
   "game": {
     "back": "DopaBrain होम"
