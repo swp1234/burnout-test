@@ -1,166 +1,166 @@
 {
   "app": {
-    "title": "Burnout Test",
-    "loading": "Loading...",
-    "skipLink": "Skip to main"
+    "title": "Tes Burnout",
+    "loading": "Memuat...",
+    "skipLink": "Langsung ke konten utama"
   },
   "meta": {
-    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
-    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
-    "og_title": "Burnout Test - What's Your Burnout Type?",
-    "og_description": "8 questions reveal your burnout type!",
-    "twitter_title": "Burnout Test - What's Your Burnout Type?",
-    "twitter_description": "8 questions reveal your burnout type!",
-    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+    "description": "Apa tipe burnout kamu? Ikuti kuis viral 8 pertanyaan ini untuk menemukan pola kelelahan profesional dan emosional kamu!",
+    "keywords": "tes burnout, tipe burnout, tes stres, kelelahan kerja, kelelahan emosional, burnout profesional",
+    "og_title": "Tes Burnout - Apa Tipe Burnout Kamu?",
+    "og_description": "8 pertanyaan mengungkap tipe burnout kamu!",
+    "twitter_title": "Tes Burnout - Apa Tipe Burnout Kamu?",
+    "twitter_description": "8 pertanyaan mengungkap tipe burnout kamu!",
+    "page_title": "Tes Burnout - Apa Tipe Burnout Kamu? | DopaBrain"
   },
   "intro": {
-    "title": "Burnout Test",
-    "subtitle": "What's your burnout type?",
-    "social_proof": "people tested",
-    "feature_types": "6 burnout types",
-    "feature_questions": "8 stress scenarios",
-    "feature_metrics": "5 burnout dimensions",
-    "time_estimate": "Takes about 1 minute"
+    "title": "Tes Burnout",
+    "subtitle": "Apa tipe burnout kamu?",
+    "social_proof": "orang sudah mengikuti tes",
+    "feature_types": "6 tipe burnout",
+    "feature_questions": "8 skenario stres",
+    "feature_metrics": "5 dimensi burnout",
+    "time_estimate": "Memakan waktu sekitar 1 menit"
   },
   "button": {
-    "start": "Discover Your Burnout Type",
-    "retry": "Try Again",
+    "start": "Temukan Tipe Burnout Kamu",
+    "retry": "Coba Lagi",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
-    "share_copy": "Copy Link"
+    "share_copy": "Salin Tautan"
   },
   "question": {
-    "0": "How do you spend your weekends?",
-    "0a": "Catching up on work I didn't finish during the week",
-    "0b": "Helping friends/family with their problems",
-    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
-    "0d": "Resting, but feeling guilty I'm not being productive",
+    "0": "Bagaimana kamu menghabiskan akhir pekan?",
+    "0a": "Mengejar pekerjaan yang belum selesai selama seminggu",
+    "0b": "Membantu teman/keluarga dengan masalah mereka",
+    "0c": "Scroll tanpa tujuan, terlalu bosan untuk melakukan sesuatu yang berarti",
+    "0d": "Istirahat, tapi merasa bersalah karena tidak produktif",
 
-    "1": "How do you feel first thing in the morning?",
-    "1a": "Already checking emails before my feet hit the floor",
-    "1b": "Dread. Just pure dread for the day ahead.",
-    "1c": "Uninspired. Another day of the same routine.",
-    "1d": "Disconnected, like I'm on autopilot",
+    "1": "Bagaimana perasaanmu saat pertama kali bangun pagi?",
+    "1a": "Sudah mengecek email sebelum turun dari tempat tidur",
+    "1b": "Takut. Rasa takut murni menghadapi hari yang akan datang.",
+    "1c": "Tidak terinspirasi. Hari yang sama dengan rutinitas yang sama lagi.",
+    "1d": "Merasa terputus, seperti berjalan dengan autopilot",
 
-    "2": "A colleague needs support. What's your response?",
-    "2a": "Drop everything to emotionally support them",
-    "2b": "Offer to help with tasks (easier than feelings)",
-    "2c": "Avoid interaction, I have nothing left to give",
-    "2d": "Listen politely but feel completely empty inside",
+    "2": "Seorang rekan kerja butuh dukungan. Apa responsmu?",
+    "2a": "Tinggalkan segalanya untuk mendukung mereka secara emosional",
+    "2b": "Menawarkan bantuan dengan tugas (lebih mudah daripada urusan perasaan)",
+    "2c": "Menghindari interaksi, aku sudah tidak punya apa-apa lagi untuk diberikan",
+    "2d": "Mendengarkan dengan sopan tapi merasa benar-benar kosong di dalam",
 
-    "3": "You get a work notification after hours. What happens?",
-    "3a": "Respond immediately—boundaries are a myth",
-    "3b": "Ignore it but feel anxious about it all night",
-    "3c": "Feel annoyed that my personal time is interrupted",
-    "3d": "Feel drained by the constant digital intrusion",
+    "3": "Kamu mendapat notifikasi kerja di luar jam kerja. Apa yang terjadi?",
+    "3a": "Langsung merespons — batasan itu mitos",
+    "3b": "Mengabaikannya tapi merasa cemas sepanjang malam",
+    "3c": "Merasa kesal karena waktu pribadiku diganggu",
+    "3d": "Merasa terkuras oleh gangguan digital yang terus-menerus",
 
-    "4": "You finish a big task. How do you feel?",
-    "4a": "Nothing feels like enough, already thinking about what's next",
-    "4b": "Push myself harder to prove my worth",
-    "4c": "Feel absolutely nothing. No satisfaction.",
-    "4d": "Can't find the spark I used to have for my work",
+    "4": "Kamu menyelesaikan tugas besar. Bagaimana perasaanmu?",
+    "4a": "Tidak ada yang terasa cukup, sudah memikirkan apa selanjutnya",
+    "4b": "Mendorong diri lebih keras untuk membuktikan nilai diri",
+    "4c": "Tidak merasakan apa-apa. Sama sekali tidak ada kepuasan.",
+    "4d": "Tidak bisa menemukan semangat yang dulu aku rasakan untuk pekerjaanku",
 
-    "5": "How are your creative ideas lately?",
-    "5a": "Completely dried up. The well is empty.",
-    "5b": "I don't care anymore. Ideas feel pointless.",
-    "5c": "Force myself to produce even when uninspired",
-    "5d": "Give my ideas away because I'm too tired to execute",
+    "5": "Bagaimana ide-ide kreatifmu akhir-akhir ini?",
+    "5a": "Benar-benar kering. Sumurnya sudah kosong.",
+    "5b": "Aku sudah tidak peduli lagi. Ide-ide terasa sia-sia.",
+    "5c": "Memaksa diri untuk berkarya meskipun tidak terinspirasi",
+    "5d": "Memberikan ide-ideku karena terlalu lelah untuk mengeksekusi",
 
-    "6": "Where does your energy come from these days?",
-    "6a": "Pure caffeine and sheer willpower",
-    "6b": "Faking it. I pretend I'm fine when I'm not.",
-    "6c": "Nowhere. I'm completely depleted.",
-    "6d": "Screen time paradoxically drains me more",
+    "6": "Dari mana energimu berasal akhir-akhir ini?",
+    "6a": "Murni kafein dan kekuatan tekad",
+    "6b": "Berpura-pura. Aku pura-pura baik-baik saja padahal tidak.",
+    "6c": "Dari mana pun tidak ada. Aku benar-benar habis.",
+    "6d": "Waktu layar secara paradoks malah membuatku lebih terkuras",
 
-    "7": "How do you feel about your work's purpose?",
-    "7a": "Lost all sense of meaning or why I'm doing this",
-    "7b": "Constantly trying to prove my worth and value",
-    "7c": "Only find purpose in helping others, not myself",
-    "7d": "Going through the motions without real connection"
+    "7": "Bagaimana perasaanmu tentang tujuan pekerjaanmu?",
+    "7a": "Kehilangan semua makna atau alasan mengapa aku melakukan ini",
+    "7b": "Terus-menerus berusaha membuktikan nilai dan kemampuanku",
+    "7c": "Hanya menemukan tujuan dalam membantu orang lain, bukan diri sendiri",
+    "7d": "Menjalani semuanya tanpa koneksi yang nyata"
   },
   "analyzing": {
-    "title": "Analyzing your burnout patterns...",
-    "scanning": "Scanning stress levels...",
-    "matching": "Matching with burnout types...",
-    "comparing": "Comparing recovery patterns...",
-    "complete": "Analysis complete!"
+    "title": "Menganalisis pola burnout kamu...",
+    "scanning": "Memindai tingkat stres...",
+    "matching": "Mencocokkan dengan tipe burnout...",
+    "comparing": "Membandingkan pola pemulihan...",
+    "complete": "Analisis selesai!"
   },
   "result": {
-    "your_type": "Your Burnout Type",
-    "burnout_metrics": "Burnout Dimensions",
-    "key_traits": "Key Patterns",
-    "moreTests": "Explore More",
-    "share": "Share Your Result",
-    "percentile": "Only {pct} of all participants experience {type} burnout"
+    "your_type": "Tipe Burnout Kamu",
+    "burnout_metrics": "Dimensi Burnout",
+    "key_traits": "Pola Utama",
+    "moreTests": "Jelajahi Lainnya",
+    "share": "Bagikan Hasilmu",
+    "percentile": "Hanya {pct} dari semua peserta yang mengalami burnout tipe {type}"
   },
   "metric": {
-    "workload": "Workload",
-    "emotionalDrain": "Emotional Drain",
-    "cynicism": "Cynicism",
-    "efficacy": "Efficacy",
-    "recovery": "Recovery"
+    "workload": "Beban Kerja",
+    "emotionalDrain": "Kelelahan Emosional",
+    "cynicism": "Sinisme",
+    "efficacy": "Efikasi",
+    "recovery": "Pemulihan"
   },
   "type": {
     "overachiever": {
-      "name": "Overachiever Burnout",
-      "tagline": "Perfectionism meets chronic overwork",
-      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
-      "trait1": "Rest feels like weakness",
-      "trait2": "Never enough achievement",
-      "trait3": "Productivity = worth"
+      "name": "Burnout Overachiever",
+      "tagline": "Perfeksionisme bertemu dengan kerja berlebihan kronis",
+      "description": "Kamu membangun identitasmu di sekitar pencapaian, tapi standarnya terus naik. Istirahat terasa seperti kegagalan. Kamu terus memaksakan diri melewati kelelahan karena berhenti berarti menghadapi pertanyaan menakutkan: siapa kamu tanpa produktivitasmu? Kamu berjalan dengan sisa-sisa energi terakhir, tapi tidak bisa melambat karena harga dirimu terikat pada hasil.",
+      "trait1": "Istirahat terasa seperti kelemahan",
+      "trait2": "Pencapaian tidak pernah cukup",
+      "trait3": "Produktivitas = nilai diri"
     },
     "empathy": {
-      "name": "Empathy Burnout",
-      "tagline": "Emotional labor has drained your tank",
-      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
-      "trait1": "Others' emotions drain you",
-      "trait2": "Caregiver with no care",
-      "trait3": "Compassion fatigue"
+      "name": "Burnout Empati",
+      "tagline": "Kerja emosional telah menguras tangkimu",
+      "description": "Kamu telah menjadi tumpuan bagi semua orang sementara pondasimu sendiri runtuh. Profesi perawatan, peran pengasuh, atau sekadar menjadi 'teman terapis' telah membuatmu bangkrut secara emosional. Kamu menyerap rasa sakit orang lain, tapi tidak ada yang mengisi gelasmu. Kelelahan empati bukanlah kelemahan — itu yang terjadi ketika kamu memberi lebih dari yang kamu miliki.",
+      "trait1": "Emosi orang lain menguras energimu",
+      "trait2": "Pengasuh yang tidak dirawat",
+      "trait3": "Kelelahan empati"
     },
     "boredom": {
-      "name": "Boredom Burnout",
-      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
-      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
-      "trait1": "Chronic under-stimulation",
-      "trait2": "Meaning has evaporated",
-      "trait3": "Checked out mentally"
+      "name": "Burnout Kebosanan",
+      "tagline": "Tugas repetitif, nol pertumbuhan, monotoni yang mematikan jiwa",
+      "description": "Kamu tidak kelebihan beban kerja — kamu kekurangan tantangan. Tugas yang sama, rapat yang sama, kekosongan yang sama hari demi hari. Kamu sudah checkout secara mental karena tidak ada lagi yang bisa membuatmu terlibat. Ini bukan kemalasan; ini otakmu yang mati rasa dari kurangnya stimulasi kronis. Kamu membusuk dari stagnasi.",
+      "trait1": "Kurangnya stimulasi kronis",
+      "trait2": "Makna telah menguap",
+      "trait3": "Checkout secara mental"
     },
     "invisible": {
-      "name": "Invisible Burnout",
-      "tagline": "High-functioning on the outside, collapsing inside",
-      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
-      "trait1": "Masked exhaustion",
-      "trait2": "High-functioning facade",
-      "trait3": "Invisible suffering"
+      "name": "Burnout Tak Terlihat",
+      "tagline": "Berfungsi tinggi di luar, runtuh di dalam",
+      "description": "Kamu terlihat baik-baik saja. Kinerjamu bagus. Tidak ada yang tahu kamu nyaris tidak bisa bertahan. Kamu telah menguasai seni fasad sempurna sementara di dalam, kamu berteriak. Ini adalah burnout paling berbahaya karena tersembunyi — bahkan dari dirimu sendiri. Kamu tenggelam di depan mata semua orang.",
+      "trait1": "Kelelahan yang tersamarkan",
+      "trait2": "Fasad berfungsi tinggi",
+      "trait3": "Penderitaan tak terlihat"
     },
     "creative": {
-      "name": "Creative Burnout",
-      "tagline": "The well of ideas has run dry",
-      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
-      "trait1": "Inspiration has vanished",
-      "trait2": "Forced creativity",
-      "trait3": "Identity crisis"
+      "name": "Burnout Kreatif",
+      "tagline": "Sumur ide telah mengering",
+      "description": "Dulu kamu dipenuhi inspirasi. Sekarang, tidak ada apa-apa. Percikan api itu hilang. Setiap upaya berkreasi terasa dipaksakan, hampa, sekadar pertunjukan. Kamu bukan terhambat — kamu terkuras. Identitas kreatifmu runtuh karena kamu telah memberikan segalanya untuk proyek, klien, dan tuntutan, tanpa menyisakan apa pun untuk pekerjaan yang dulu membuatmu bersemangat.",
+      "trait1": "Inspirasi telah lenyap",
+      "trait2": "Kreativitas yang dipaksakan",
+      "trait3": "Krisis identitas"
     },
     "digital": {
-      "name": "Digital Burnout",
-      "tagline": "Always online, never recharged",
-      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
-      "trait1": "Screen time overload",
-      "trait2": "Never offline",
-      "trait3": "Digital exhaustion"
+      "name": "Burnout Digital",
+      "tagline": "Selalu online, tidak pernah terisi ulang",
+      "description": "Kelelahan layar. Overload notifikasi. Longsoran informasi. Kamu terus-menerus terhubung, dan itu membakar sirkuitmu. Doom scrolling, konektivitas konstan, dan tekanan untuk selalu merespons telah membuatmu kelelahan mental. Kamu burnout bukan karena bekerja terlalu keras, tapi karena tidak pernah benar-benar memutus koneksi.",
+      "trait1": "Overload waktu layar",
+      "trait2": "Tidak pernah offline",
+      "trait3": "Kelelahan digital"
     }
   },
   "share": {
-    "text": "My burnout type is '{type}'! What's yours?"
+    "text": "Tipe burnout-ku adalah '{type}'! Apa tipe kamu?"
   },
   "related": {
-    "stressCheck": "Stress Check",
-    "hspTest": "HSP Test",
-    "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "stressCheck": "Cek Stres",
+    "hspTest": "Tes HSP",
+    "dopamineType": "Tipe Dopamin",
+    "overthinkerTest": "Tes Overthinking"
   },
   "game": {
-    "back": "DopaBrain Home"
+    "back": "Beranda DopaBrain"
   }
 }

@@ -1,166 +1,166 @@
 {
   "app": {
-    "title": "Burnout Test",
-    "loading": "Loading...",
-    "skipLink": "Skip to main"
+    "title": "Тест на выгорание",
+    "loading": "Загрузка...",
+    "skipLink": "Перейти к основному содержанию"
   },
   "meta": {
-    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
-    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
-    "og_title": "Burnout Test - What's Your Burnout Type?",
-    "og_description": "8 questions reveal your burnout type!",
-    "twitter_title": "Burnout Test - What's Your Burnout Type?",
-    "twitter_description": "8 questions reveal your burnout type!",
-    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+    "description": "Какой у вас тип выгорания? Пройдите этот вирусный тест из 8 вопросов и узнайте свой тип профессионального и эмоционального выгорания!",
+    "keywords": "тест на выгорание, тип выгорания, тест на стресс, профессиональное выгорание, эмоциональное выгорание",
+    "og_title": "Тест на выгорание — Какой у вас тип выгорания?",
+    "og_description": "8 вопросов раскроют ваш тип выгорания!",
+    "twitter_title": "Тест на выгорание — Какой у вас тип выгорания?",
+    "twitter_description": "8 вопросов раскроют ваш тип выгорания!",
+    "page_title": "Тест на выгорание — Какой у вас тип выгорания? | DopaBrain"
   },
   "intro": {
-    "title": "Burnout Test",
-    "subtitle": "What's your burnout type?",
-    "social_proof": "people tested",
-    "feature_types": "6 burnout types",
-    "feature_questions": "8 stress scenarios",
-    "feature_metrics": "5 burnout dimensions",
-    "time_estimate": "Takes about 1 minute"
+    "title": "Тест на выгорание",
+    "subtitle": "Какой у вас тип выгорания?",
+    "social_proof": "человек прошли тест",
+    "feature_types": "6 типов выгорания",
+    "feature_questions": "8 стрессовых сценариев",
+    "feature_metrics": "5 измерений выгорания",
+    "time_estimate": "Займёт около 1 минуты"
   },
   "button": {
-    "start": "Discover Your Burnout Type",
-    "retry": "Try Again",
+    "start": "Узнать свой тип выгорания",
+    "retry": "Пройти снова",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
-    "share_copy": "Copy Link"
+    "share_copy": "Копировать ссылку"
   },
   "question": {
-    "0": "How do you spend your weekends?",
-    "0a": "Catching up on work I didn't finish during the week",
-    "0b": "Helping friends/family with their problems",
-    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
-    "0d": "Resting, but feeling guilty I'm not being productive",
+    "0": "Как вы проводите выходные?",
+    "0a": "Доделываю работу, которую не успел(а) за неделю",
+    "0b": "Помогаю друзьям/семье с их проблемами",
+    "0c": "Бессмысленно листаю ленту — слишком скучно для чего-то полезного",
+    "0d": "Отдыхаю, но чувствую вину за непродуктивность",
 
-    "1": "How do you feel first thing in the morning?",
-    "1a": "Already checking emails before my feet hit the floor",
-    "1b": "Dread. Just pure dread for the day ahead.",
-    "1c": "Uninspired. Another day of the same routine.",
-    "1d": "Disconnected, like I'm on autopilot",
+    "1": "Что вы чувствуете утром, когда просыпаетесь?",
+    "1a": "Уже проверяю почту, не встав с кровати",
+    "1b": "Страх. Просто чистый ужас перед наступающим днём.",
+    "1c": "Нет вдохновения. Ещё один день той же рутины.",
+    "1d": "Отрешённость, будто я на автопилоте",
 
-    "2": "A colleague needs support. What's your response?",
-    "2a": "Drop everything to emotionally support them",
-    "2b": "Offer to help with tasks (easier than feelings)",
-    "2c": "Avoid interaction, I have nothing left to give",
-    "2d": "Listen politely but feel completely empty inside",
+    "2": "Коллеге нужна поддержка. Ваша реакция?",
+    "2a": "Бросаю всё, чтобы эмоционально поддержать",
+    "2b": "Предлагаю помощь с задачами (это проще, чем разбираться в чувствах)",
+    "2c": "Избегаю общения — мне нечего дать",
+    "2d": "Вежливо слушаю, но внутри полная пустота",
 
-    "3": "You get a work notification after hours. What happens?",
-    "3a": "Respond immediately—boundaries are a myth",
-    "3b": "Ignore it but feel anxious about it all night",
-    "3c": "Feel annoyed that my personal time is interrupted",
-    "3d": "Feel drained by the constant digital intrusion",
+    "3": "Вам приходит рабочее уведомление в нерабочее время. Что происходит?",
+    "3a": "Отвечаю немедленно — границы — это миф",
+    "3b": "Игнорирую, но всю ночь тревожусь из-за него",
+    "3c": "Раздражаюсь, что вторгаются в моё личное время",
+    "3d": "Чувствую опустошение от постоянного цифрового вторжения",
 
-    "4": "You finish a big task. How do you feel?",
-    "4a": "Nothing feels like enough, already thinking about what's next",
-    "4b": "Push myself harder to prove my worth",
-    "4c": "Feel absolutely nothing. No satisfaction.",
-    "4d": "Can't find the spark I used to have for my work",
+    "4": "Вы завершили большую задачу. Что чувствуете?",
+    "4a": "Ничего не кажется достаточным — уже думаю, что дальше",
+    "4b": "Ещё больше давлю на себя, чтобы доказать свою ценность",
+    "4c": "Не чувствую абсолютно ничего. Никакого удовлетворения.",
+    "4d": "Не могу найти тот огонёк, который раньше был к моей работе",
 
-    "5": "How are your creative ideas lately?",
-    "5a": "Completely dried up. The well is empty.",
-    "5b": "I don't care anymore. Ideas feel pointless.",
-    "5c": "Force myself to produce even when uninspired",
-    "5d": "Give my ideas away because I'm too tired to execute",
+    "5": "Как обстоят дела с творческими идеями?",
+    "5a": "Полностью иссякли. Колодец пуст.",
+    "5b": "Мне всё равно. Идеи кажутся бессмысленными.",
+    "5c": "Заставляю себя создавать, даже когда нет вдохновения",
+    "5d": "Отдаю свои идеи другим — слишком устал(а), чтобы реализовать",
 
-    "6": "Where does your energy come from these days?",
-    "6a": "Pure caffeine and sheer willpower",
-    "6b": "Faking it. I pretend I'm fine when I'm not.",
-    "6c": "Nowhere. I'm completely depleted.",
-    "6d": "Screen time paradoxically drains me more",
+    "6": "Откуда вы берёте энергию в последнее время?",
+    "6a": "Чистый кофеин и сила воли",
+    "6b": "Притворяюсь. Делаю вид, что всё хорошо, хотя это не так.",
+    "6c": "Ниоткуда. Я полностью опустошён(а).",
+    "6d": "Экранное время парадоксально выматывает ещё больше",
 
-    "7": "How do you feel about your work's purpose?",
-    "7a": "Lost all sense of meaning or why I'm doing this",
-    "7b": "Constantly trying to prove my worth and value",
-    "7c": "Only find purpose in helping others, not myself",
-    "7d": "Going through the motions without real connection"
+    "7": "Что вы думаете о смысле своей работы?",
+    "7a": "Потерял(а) всякий смысл и понимание, зачем я это делаю",
+    "7b": "Постоянно пытаюсь доказать свою ценность и значимость",
+    "7c": "Нахожу смысл только в помощи другим, но не себе",
+    "7d": "Делаю всё по инерции, без настоящей вовлечённости"
   },
   "analyzing": {
-    "title": "Analyzing your burnout patterns...",
-    "scanning": "Scanning stress levels...",
-    "matching": "Matching with burnout types...",
-    "comparing": "Comparing recovery patterns...",
-    "complete": "Analysis complete!"
+    "title": "Анализируем ваши паттерны выгорания...",
+    "scanning": "Сканирование уровня стресса...",
+    "matching": "Определение типа выгорания...",
+    "comparing": "Сравнение паттернов восстановления...",
+    "complete": "Анализ завершён!"
   },
   "result": {
-    "your_type": "Your Burnout Type",
-    "burnout_metrics": "Burnout Dimensions",
-    "key_traits": "Key Patterns",
-    "moreTests": "Explore More",
-    "share": "Share Your Result",
-    "percentile": "Only {pct} of all participants experience {type} burnout"
+    "your_type": "Ваш тип выгорания",
+    "burnout_metrics": "Измерения выгорания",
+    "key_traits": "Ключевые паттерны",
+    "moreTests": "Другие тесты",
+    "share": "Поделиться результатом",
+    "percentile": "Только {pct} участников испытывают выгорание типа «{type}»"
   },
   "metric": {
-    "workload": "Workload",
-    "emotionalDrain": "Emotional Drain",
-    "cynicism": "Cynicism",
-    "efficacy": "Efficacy",
-    "recovery": "Recovery"
+    "workload": "Нагрузка",
+    "emotionalDrain": "Эмоциональное истощение",
+    "cynicism": "Цинизм",
+    "efficacy": "Эффективность",
+    "recovery": "Восстановление"
   },
   "type": {
     "overachiever": {
-      "name": "Overachiever Burnout",
-      "tagline": "Perfectionism meets chronic overwork",
-      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
-      "trait1": "Rest feels like weakness",
-      "trait2": "Never enough achievement",
-      "trait3": "Productivity = worth"
+      "name": "Выгорание перфекциониста",
+      "tagline": "Перфекционизм встречается с хронической переработкой",
+      "description": "Вы построили свою идентичность вокруг достижений, но планка продолжает расти. Отдых ощущается как провал. Вы продолжаете работать через изнеможение, потому что остановка означает столкнуться с пугающим вопросом: кто вы без своей продуктивности? Вы работаете на последних каплях энергии, но не можете замедлиться, потому что ваша самоценность привязана к результатам.",
+      "trait1": "Отдых воспринимается как слабость",
+      "trait2": "Достижений никогда не бывает достаточно",
+      "trait3": "Продуктивность = ценность"
     },
     "empathy": {
-      "name": "Empathy Burnout",
-      "tagline": "Emotional labor has drained your tank",
-      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
-      "trait1": "Others' emotions drain you",
-      "trait2": "Caregiver with no care",
-      "trait3": "Compassion fatigue"
+      "name": "Эмпатийное выгорание",
+      "tagline": "Эмоциональный труд опустошил ваш резерв",
+      "description": "Вы были опорой для всех, пока ваш собственный фундамент разрушался. Помогающие профессии, роль опекуна или просто статус «друга-психолога» довели вас до эмоционального банкротства. Вы впитываете чужую боль, но никто не наполняет вашу чашу. Усталость от сострадания — это не слабость, а то, что происходит, когда вы отдаёте больше, чем имеете.",
+      "trait1": "Чужие эмоции вас опустошают",
+      "trait2": "Заботитесь обо всех, кроме себя",
+      "trait3": "Усталость от сострадания"
     },
     "boredom": {
-      "name": "Boredom Burnout",
-      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
-      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
-      "trait1": "Chronic under-stimulation",
-      "trait2": "Meaning has evaporated",
-      "trait3": "Checked out mentally"
+      "name": "Выгорание от скуки",
+      "tagline": "Однообразные задачи, нулевой рост, убивающая душу монотонность",
+      "description": "Вы не перегружены работой — вам не хватает вызовов. Одни и те же задачи, те же совещания, та же пустота день за днём. Вы мысленно отключились, потому что больше не за что зацепиться. Это не лень — это ваш мозг отключается от хронической недостаточной стимуляции. Вы разрушаетесь от застоя.",
+      "trait1": "Хроническая недостаточная стимуляция",
+      "trait2": "Смысл испарился",
+      "trait3": "Мысленно отключены"
     },
     "invisible": {
-      "name": "Invisible Burnout",
-      "tagline": "High-functioning on the outside, collapsing inside",
-      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
-      "trait1": "Masked exhaustion",
-      "trait2": "High-functioning facade",
-      "trait3": "Invisible suffering"
+      "name": "Невидимое выгорание",
+      "tagline": "Снаружи — высокая продуктивность, внутри — разрушение",
+      "description": "Вы выглядите нормально. Работаете хорошо. Никто не знает, что вы еле держитесь. Вы довели до совершенства искусство безупречного фасада, в то время как внутри кричите. Это самый опасный тип выгорания, потому что он скрыт — даже от вас самих. Вы тонете у всех на виду.",
+      "trait1": "Замаскированное истощение",
+      "trait2": "Фасад высокой продуктивности",
+      "trait3": "Невидимое страдание"
     },
     "creative": {
-      "name": "Creative Burnout",
-      "tagline": "The well of ideas has run dry",
-      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
-      "trait1": "Inspiration has vanished",
-      "trait2": "Forced creativity",
-      "trait3": "Identity crisis"
+      "name": "Творческое выгорание",
+      "tagline": "Источник идей иссяк",
+      "description": "Раньше вы фонтанировали вдохновением. Теперь — пустота. Искра погасла. Каждая попытка творить ощущается вымученной, пустой, показной. Вы не в творческом блоке — вы опустошены. Ваша творческая идентичность рушится, потому что вы отдали всё проектам, клиентам и требованиям, не оставив ничего для работы, которая когда-то вас зажигала.",
+      "trait1": "Вдохновение исчезло",
+      "trait2": "Вымученное творчество",
+      "trait3": "Кризис идентичности"
     },
     "digital": {
-      "name": "Digital Burnout",
-      "tagline": "Always online, never recharged",
-      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
-      "trait1": "Screen time overload",
-      "trait2": "Never offline",
-      "trait3": "Digital exhaustion"
+      "name": "Цифровое выгорание",
+      "tagline": "Всегда онлайн, никогда не перезаряжен",
+      "description": "Усталость от экранов. Перегрузка уведомлениями. Лавина информации. Вы постоянно подключены, и это сжигает ваши нервы. Бесконечный скроллинг, постоянная связь и давление «всегда быть на связи» привели к ментальному истощению. Вы выгорели не от тяжёлой работы, а от того, что никогда по-настоящему не отключаетесь.",
+      "trait1": "Перегрузка экранным временем",
+      "trait2": "Никогда не офлайн",
+      "trait3": "Цифровое истощение"
     }
   },
   "share": {
-    "text": "My burnout type is '{type}'! What's yours?"
+    "text": "Мой тип выгорания — «{type}»! А какой у тебя?"
   },
   "related": {
-    "stressCheck": "Stress Check",
-    "hspTest": "HSP Test",
-    "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "stressCheck": "Проверка стресса",
+    "hspTest": "Тест на чувствительность",
+    "dopamineType": "Тип дофамина",
+    "overthinkerTest": "Тест на overthinking"
   },
   "game": {
-    "back": "DopaBrain Home"
+    "back": "Главная DopaBrain"
   }
 }

@@ -1,166 +1,166 @@
 {
   "app": {
-    "title": "Burnout Test",
-    "loading": "Loading...",
-    "skipLink": "Skip to main"
+    "title": "Test de Burnout",
+    "loading": "Cargando...",
+    "skipLink": "Ir al contenido principal"
   },
   "meta": {
-    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
-    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
-    "og_title": "Burnout Test - What's Your Burnout Type?",
-    "og_description": "8 questions reveal your burnout type!",
-    "twitter_title": "Burnout Test - What's Your Burnout Type?",
-    "twitter_description": "8 questions reveal your burnout type!",
-    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+    "description": "¿Cuál es tu tipo de burnout? ¡Haz este test viral de 8 preguntas y descubre tu patrón de agotamiento profesional y emocional!",
+    "keywords": "test de burnout, tipo de burnout, test de estrés, agotamiento laboral, agotamiento emocional, burnout profesional",
+    "og_title": "Test de Burnout - ¿Cuál es tu tipo de burnout?",
+    "og_description": "¡8 preguntas revelan tu tipo de burnout!",
+    "twitter_title": "Test de Burnout - ¿Cuál es tu tipo de burnout?",
+    "twitter_description": "¡8 preguntas revelan tu tipo de burnout!",
+    "page_title": "Test de Burnout - ¿Cuál es tu tipo de burnout? | DopaBrain"
   },
   "intro": {
-    "title": "Burnout Test",
-    "subtitle": "What's your burnout type?",
-    "social_proof": "people tested",
-    "feature_types": "6 burnout types",
-    "feature_questions": "8 stress scenarios",
-    "feature_metrics": "5 burnout dimensions",
-    "time_estimate": "Takes about 1 minute"
+    "title": "Test de Burnout",
+    "subtitle": "¿Cuál es tu tipo de burnout?",
+    "social_proof": "personas evaluadas",
+    "feature_types": "6 tipos de burnout",
+    "feature_questions": "8 escenarios de estrés",
+    "feature_metrics": "5 dimensiones de burnout",
+    "time_estimate": "Toma aproximadamente 1 minuto"
   },
   "button": {
-    "start": "Discover Your Burnout Type",
-    "retry": "Try Again",
+    "start": "Descubre tu tipo de burnout",
+    "retry": "Intentar de nuevo",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
-    "share_copy": "Copy Link"
+    "share_copy": "Copiar enlace"
   },
   "question": {
-    "0": "How do you spend your weekends?",
-    "0a": "Catching up on work I didn't finish during the week",
-    "0b": "Helping friends/family with their problems",
-    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
-    "0d": "Resting, but feeling guilty I'm not being productive",
+    "0": "¿Cómo pasas tus fines de semana?",
+    "0a": "Terminando el trabajo que no completé durante la semana",
+    "0b": "Ayudando a amigos/familiares con sus problemas",
+    "0c": "Desplazándome sin sentido por el móvil, demasiado aburrido/a para algo útil",
+    "0d": "Descansando, pero sintiéndome culpable por no ser productivo/a",
 
-    "1": "How do you feel first thing in the morning?",
-    "1a": "Already checking emails before my feet hit the floor",
-    "1b": "Dread. Just pure dread for the day ahead.",
-    "1c": "Uninspired. Another day of the same routine.",
-    "1d": "Disconnected, like I'm on autopilot",
+    "1": "¿Cómo te sientes al despertar por la mañana?",
+    "1a": "Ya estoy revisando correos antes de levantarme de la cama",
+    "1b": "Pavor. Puro pavor por el día que viene.",
+    "1c": "Sin inspiración. Otro día de la misma rutina.",
+    "1d": "Desconectado/a, como si estuviera en piloto automático",
 
-    "2": "A colleague needs support. What's your response?",
-    "2a": "Drop everything to emotionally support them",
-    "2b": "Offer to help with tasks (easier than feelings)",
-    "2c": "Avoid interaction, I have nothing left to give",
-    "2d": "Listen politely but feel completely empty inside",
+    "2": "Un compañero necesita apoyo. ¿Cuál es tu respuesta?",
+    "2a": "Dejo todo para apoyarle emocionalmente",
+    "2b": "Ofrezco ayuda con tareas (es más fácil que lidiar con emociones)",
+    "2c": "Evito la interacción, no me queda nada que dar",
+    "2d": "Escucho educadamente pero me siento completamente vacío/a por dentro",
 
-    "3": "You get a work notification after hours. What happens?",
-    "3a": "Respond immediately—boundaries are a myth",
-    "3b": "Ignore it but feel anxious about it all night",
-    "3c": "Feel annoyed that my personal time is interrupted",
-    "3d": "Feel drained by the constant digital intrusion",
+    "3": "Recibes una notificación de trabajo fuera de horario. ¿Qué pasa?",
+    "3a": "Respondo inmediatamente: los límites son un mito",
+    "3b": "Lo ignoro pero me paso toda la noche con ansiedad",
+    "3c": "Me molesta que interrumpan mi tiempo personal",
+    "3d": "Me siento agotado/a por la constante intrusión digital",
 
-    "4": "You finish a big task. How do you feel?",
-    "4a": "Nothing feels like enough, already thinking about what's next",
-    "4b": "Push myself harder to prove my worth",
-    "4c": "Feel absolutely nothing. No satisfaction.",
-    "4d": "Can't find the spark I used to have for my work",
+    "4": "Terminas una tarea importante. ¿Cómo te sientes?",
+    "4a": "Nada parece suficiente, ya estoy pensando en lo siguiente",
+    "4b": "Me exijo aún más para demostrar mi valía",
+    "4c": "No siento absolutamente nada. Ninguna satisfacción.",
+    "4d": "No encuentro la chispa que solía tener por mi trabajo",
 
-    "5": "How are your creative ideas lately?",
-    "5a": "Completely dried up. The well is empty.",
-    "5b": "I don't care anymore. Ideas feel pointless.",
-    "5c": "Force myself to produce even when uninspired",
-    "5d": "Give my ideas away because I'm too tired to execute",
+    "5": "¿Cómo van tus ideas creativas últimamente?",
+    "5a": "Completamente agotadas. El pozo está vacío.",
+    "5b": "Ya no me importa. Las ideas me parecen inútiles.",
+    "5c": "Me obligo a producir incluso sin inspiración",
+    "5d": "Regalo mis ideas porque estoy demasiado cansado/a para ejecutarlas",
 
-    "6": "Where does your energy come from these days?",
-    "6a": "Pure caffeine and sheer willpower",
-    "6b": "Faking it. I pretend I'm fine when I'm not.",
-    "6c": "Nowhere. I'm completely depleted.",
-    "6d": "Screen time paradoxically drains me more",
+    "6": "¿De dónde sacas energía últimamente?",
+    "6a": "Pura cafeína y fuerza de voluntad",
+    "6b": "Fingiendo. Pretendo estar bien cuando no lo estoy.",
+    "6c": "De ningún lado. Estoy completamente agotado/a.",
+    "6d": "El tiempo de pantalla paradójicamente me agota más",
 
-    "7": "How do you feel about your work's purpose?",
-    "7a": "Lost all sense of meaning or why I'm doing this",
-    "7b": "Constantly trying to prove my worth and value",
-    "7c": "Only find purpose in helping others, not myself",
-    "7d": "Going through the motions without real connection"
+    "7": "¿Cómo te sientes sobre el propósito de tu trabajo?",
+    "7a": "Perdí todo sentido de propósito o razón de por qué hago esto",
+    "7b": "Constantemente intentando demostrar mi valor",
+    "7c": "Solo encuentro propósito ayudando a otros, no a mí mismo/a",
+    "7d": "Hago las cosas por inercia sin conexión real"
   },
   "analyzing": {
-    "title": "Analyzing your burnout patterns...",
-    "scanning": "Scanning stress levels...",
-    "matching": "Matching with burnout types...",
-    "comparing": "Comparing recovery patterns...",
-    "complete": "Analysis complete!"
+    "title": "Analizando tus patrones de burnout...",
+    "scanning": "Escaneando niveles de estrés...",
+    "matching": "Identificando tipo de burnout...",
+    "comparing": "Comparando patrones de recuperación...",
+    "complete": "¡Análisis completo!"
   },
   "result": {
-    "your_type": "Your Burnout Type",
-    "burnout_metrics": "Burnout Dimensions",
-    "key_traits": "Key Patterns",
-    "moreTests": "Explore More",
-    "share": "Share Your Result",
-    "percentile": "Only {pct} of all participants experience {type} burnout"
+    "your_type": "Tu tipo de burnout",
+    "burnout_metrics": "Dimensiones de burnout",
+    "key_traits": "Patrones clave",
+    "moreTests": "Explorar más",
+    "share": "Comparte tu resultado",
+    "percentile": "Solo el {pct} de los participantes experimenta burnout tipo {type}"
   },
   "metric": {
-    "workload": "Workload",
-    "emotionalDrain": "Emotional Drain",
-    "cynicism": "Cynicism",
-    "efficacy": "Efficacy",
-    "recovery": "Recovery"
+    "workload": "Carga laboral",
+    "emotionalDrain": "Desgaste emocional",
+    "cynicism": "Cinismo",
+    "efficacy": "Eficacia",
+    "recovery": "Recuperación"
   },
   "type": {
     "overachiever": {
-      "name": "Overachiever Burnout",
-      "tagline": "Perfectionism meets chronic overwork",
-      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
-      "trait1": "Rest feels like weakness",
-      "trait2": "Never enough achievement",
-      "trait3": "Productivity = worth"
+      "name": "Burnout del Perfeccionista",
+      "tagline": "El perfeccionismo se encuentra con el exceso de trabajo crónico",
+      "description": "Has construido tu identidad alrededor de los logros, pero el listón sigue subiendo. Descansar se siente como fracasar. Sigues adelante a pesar del agotamiento porque parar significa enfrentar la aterradora pregunta: ¿quién eres sin tu productividad? Estás funcionando con los últimos restos de energía, pero no puedes frenar porque tu autoestima está atada a los resultados.",
+      "trait1": "Descansar se siente como debilidad",
+      "trait2": "Los logros nunca son suficientes",
+      "trait3": "Productividad = valor personal"
     },
     "empathy": {
-      "name": "Empathy Burnout",
-      "tagline": "Emotional labor has drained your tank",
-      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
-      "trait1": "Others' emotions drain you",
-      "trait2": "Caregiver with no care",
-      "trait3": "Compassion fatigue"
+      "name": "Burnout Empático",
+      "tagline": "El trabajo emocional ha vaciado tu tanque",
+      "description": "Has sido el pilar para todos mientras tus propios cimientos se desmoronan. Las profesiones de cuidado, los roles de cuidador o simplemente ser el \"amigo terapeuta\" te han dejado emocionalmente en bancarrota. Absorbes el dolor de los demás, pero nadie llena tu copa. La fatiga por compasión no es debilidad: es lo que ocurre cuando das más de lo que tienes.",
+      "trait1": "Las emociones ajenas te agotan",
+      "trait2": "Cuidas de todos menos de ti",
+      "trait3": "Fatiga por compasión"
     },
     "boredom": {
-      "name": "Boredom Burnout",
-      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
-      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
-      "trait1": "Chronic under-stimulation",
-      "trait2": "Meaning has evaporated",
-      "trait3": "Checked out mentally"
+      "name": "Burnout por Aburrimiento",
+      "tagline": "Tareas repetitivas, cero crecimiento, monotonía aplastante",
+      "description": "No estás sobrecargado/a de trabajo, te falta desafío. Las mismas tareas, las mismas reuniones, la misma nada día tras día. Te has desconectado mentalmente porque ya no hay nada que te enganche. No es pereza; es tu cerebro apagándose por la falta crónica de estímulos. Te estás pudriendo por el estancamiento.",
+      "trait1": "Falta crónica de estímulos",
+      "trait2": "El sentido se ha evaporado",
+      "trait3": "Desconexión mental"
     },
     "invisible": {
-      "name": "Invisible Burnout",
-      "tagline": "High-functioning on the outside, collapsing inside",
-      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
-      "trait1": "Masked exhaustion",
-      "trait2": "High-functioning facade",
-      "trait3": "Invisible suffering"
+      "name": "Burnout Invisible",
+      "tagline": "Alto rendimiento por fuera, colapso por dentro",
+      "description": "Te ves bien. Rindes bien. Nadie sabe que apenas aguantas. Has dominado el arte de la fachada perfecta mientras por dentro estás gritando. Este es el burnout más peligroso porque está oculto, incluso de ti mismo/a. Te estás ahogando a la vista de todos.",
+      "trait1": "Agotamiento enmascarado",
+      "trait2": "Fachada de alto rendimiento",
+      "trait3": "Sufrimiento invisible"
     },
     "creative": {
-      "name": "Creative Burnout",
-      "tagline": "The well of ideas has run dry",
-      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
-      "trait1": "Inspiration has vanished",
-      "trait2": "Forced creativity",
-      "trait3": "Identity crisis"
+      "name": "Burnout Creativo",
+      "tagline": "El pozo de las ideas se ha secado",
+      "description": "Antes desbordabas inspiración. Ahora no hay nada. La chispa se apagó. Cada intento de crear se siente forzado, vacío, performativo. No estás bloqueado/a, estás agotado/a. Tu identidad creativa se desmorona porque lo has dado todo a proyectos, clientes y exigencias, sin dejar nada para el trabajo que antes te encendía.",
+      "trait1": "La inspiración ha desaparecido",
+      "trait2": "Creatividad forzada",
+      "trait3": "Crisis de identidad"
     },
     "digital": {
-      "name": "Digital Burnout",
-      "tagline": "Always online, never recharged",
-      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
-      "trait1": "Screen time overload",
-      "trait2": "Never offline",
-      "trait3": "Digital exhaustion"
+      "name": "Burnout Digital",
+      "tagline": "Siempre conectado, nunca recargado",
+      "description": "Fatiga de pantalla. Sobrecarga de notificaciones. Avalancha de información. Estás perpetuamente conectado/a y eso está friendo tus circuitos. El scroll infinito, la conectividad constante y la presión de responder siempre te han dejado mentalmente agotado/a. No te has quemado por trabajar demasiado, sino por nunca desconectar de verdad.",
+      "trait1": "Exceso de tiempo de pantalla",
+      "trait2": "Nunca desconectado/a",
+      "trait3": "Agotamiento digital"
     }
   },
   "share": {
-    "text": "My burnout type is '{type}'! What's yours?"
+    "text": "¡Mi tipo de burnout es '{type}'! ¿Cuál es el tuyo?"
   },
   "related": {
-    "stressCheck": "Stress Check",
-    "hspTest": "HSP Test",
-    "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "stressCheck": "Test de Estrés",
+    "hspTest": "Test PAS",
+    "dopamineType": "Tipo de Dopamina",
+    "overthinkerTest": "Test de Sobrepensar"
   },
   "game": {
-    "back": "DopaBrain Home"
+    "back": "Inicio DopaBrain"
   }
 }

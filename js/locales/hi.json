@@ -1,166 +1,159 @@
 {
   "app": {
-    "title": "Burnout Test",
-    "loading": "Loading...",
-    "skipLink": "Skip to main"
+    "title": "बर्नआउट टेस्ट",
+    "loading": "लोड हो रहा है...",
+    "skipLink": "मुख्य पर जाएं"
   },
   "meta": {
-    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
-    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
-    "og_title": "Burnout Test - What's Your Burnout Type?",
-    "og_description": "8 questions reveal your burnout type!",
-    "twitter_title": "Burnout Test - What's Your Burnout Type?",
-    "twitter_description": "8 questions reveal your burnout type!",
-    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+    "description": "आपका बर्नआउट टाइप क्या है? 8 सवालों के साथ इस वायरल क्विज़ से अपने पेशेवर और भावनात्मक बर्नआउट पैटर्न की खोज करें!",
+    "keywords": "बर्नआउट टेस्ट, बर्नआउट टाइप, तनाव टेस्ट, काम का बर्नआउट, भावनात्मक बर्नआउट, पेशेवर बर्नआउट",
+    "og_title": "बर्नआउट टेस्ट - आपका बर्नआउट टाइप क्या है?",
+    "og_description": "8 सवाल आपके बर्नआउट टाइप को प्रकट करते हैं!",
+    "twitter_title": "बर्नआउट टेस्ट - आपका बर्नआउट टाइप क्या है?",
+    "twitter_description": "8 सवाल आपके बर्नआउट टाइप को प्रकट करते हैं!",
+    "page_title": "बर्नआउट टेस्ट - आपका बर्नआउट टाइप क्या है? | DopaBrain"
   },
   "intro": {
-    "title": "Burnout Test",
-    "subtitle": "What's your burnout type?",
-    "social_proof": "people tested",
-    "feature_types": "6 burnout types",
-    "feature_questions": "8 stress scenarios",
-    "feature_metrics": "5 burnout dimensions",
-    "time_estimate": "Takes about 1 minute"
+    "title": "बर्नआउट टेस्ट",
+    "subtitle": "आपका बर्नआउट टाइप क्या है?",
+    "social_proof": "लोगों ने टेस्ट किया",
+    "feature_types": "6 बर्नआउट टाइप",
+    "feature_questions": "8 तनाव परिदृश्य",
+    "feature_metrics": "5 बर्नआउट आयाम",
+    "time_estimate": "लगभग 1 मिनट लगता है"
   },
   "button": {
-    "start": "Discover Your Burnout Type",
-    "retry": "Try Again",
+    "start": "अपना बर्नआउट टाइप खोजें",
+    "retry": "फिर से प्रयास करें",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
-    "share_copy": "Copy Link"
+    "share_copy": "लिंक कॉपी करें"
   },
   "question": {
-    "0": "How do you spend your weekends?",
-    "0a": "Catching up on work I didn't finish during the week",
-    "0b": "Helping friends/family with their problems",
-    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
-    "0d": "Resting, but feeling guilty I'm not being productive",
-
-    "1": "How do you feel first thing in the morning?",
-    "1a": "Already checking emails before my feet hit the floor",
-    "1b": "Dread. Just pure dread for the day ahead.",
-    "1c": "Uninspired. Another day of the same routine.",
-    "1d": "Disconnected, like I'm on autopilot",
-
-    "2": "A colleague needs support. What's your response?",
-    "2a": "Drop everything to emotionally support them",
-    "2b": "Offer to help with tasks (easier than feelings)",
-    "2c": "Avoid interaction, I have nothing left to give",
-    "2d": "Listen politely but feel completely empty inside",
-
-    "3": "You get a work notification after hours. What happens?",
-    "3a": "Respond immediately—boundaries are a myth",
-    "3b": "Ignore it but feel anxious about it all night",
-    "3c": "Feel annoyed that my personal time is interrupted",
-    "3d": "Feel drained by the constant digital intrusion",
-
-    "4": "You finish a big task. How do you feel?",
-    "4a": "Nothing feels like enough, already thinking about what's next",
-    "4b": "Push myself harder to prove my worth",
-    "4c": "Feel absolutely nothing. No satisfaction.",
-    "4d": "Can't find the spark I used to have for my work",
-
-    "5": "How are your creative ideas lately?",
-    "5a": "Completely dried up. The well is empty.",
-    "5b": "I don't care anymore. Ideas feel pointless.",
-    "5c": "Force myself to produce even when uninspired",
-    "5d": "Give my ideas away because I'm too tired to execute",
-
-    "6": "Where does your energy come from these days?",
-    "6a": "Pure caffeine and sheer willpower",
-    "6b": "Faking it. I pretend I'm fine when I'm not.",
-    "6c": "Nowhere. I'm completely depleted.",
-    "6d": "Screen time paradoxically drains me more",
-
-    "7": "How do you feel about your work's purpose?",
-    "7a": "Lost all sense of meaning or why I'm doing this",
-    "7b": "Constantly trying to prove my worth and value",
-    "7c": "Only find purpose in helping others, not myself",
-    "7d": "Going through the motions without real connection"
+    "0": "आप अपने सप्ताहांत कैसे बिताते हैं?",
+    "0a": "उस काम को पूरा करना जो मैं सप्ताह के दौरान खत्म नहीं कर पाया",
+    "0b": "दोस्तों/परिवार की समस्याओं में मदद करना",
+    "0c": "बेमतलब स्क्रॉल करना, कुछ सार्थक करने के लिए बहुत बोर",
+    "0d": "आराम करना, लेकिन उत्पादक न होने का अपराधबोध महसूस करना",
+    "1": "सुबह सबसे पहले आप कैसा महसूस करते हैं?",
+    "1a": "पैर जमीन पर रखने से पहले ही ईमेल चेक कर रहा हूं",
+    "1b": "डर। आने वाले दिन के लिए सिर्फ शुद्ध डर।",
+    "1c": "उदासीन। एक और दिन उसी रूटीन का।",
+    "1d": "डिस्कनेक्टेड, जैसे मैं ऑटोपायलट पर हूं",
+    "2": "एक सहकर्मी को सहायता चाहिए। आपकी प्रतिक्रिया क्या है?",
+    "2a": "उन्हें भावनात्मक रूप से समर्थन देने के लिए सब कुछ छोड़ दो",
+    "2b": "कार्यों में मदद करने की पेशकश (भावनाओं से आसान)",
+    "2c": "बातचीत से बचें, मेरे पास देने के लिए कुछ नहीं बचा",
+    "2d": "विनम्रता से सुनें लेकिन अंदर से पूरी तरह खाली महसूस करें",
+    "3": "आपको कार्य घंटों के बाद एक कार्य अधिसूचना मिलती है। क्या होता है?",
+    "3a": "तुरंत जवाब दें—सीमाएं एक मिथक हैं",
+    "3b": "इसे अनदेखा करें लेकिन पूरी रात इसके बारे में चिंतित रहें",
+    "3c": "परेशान महसूस करें कि मेरा व्यक्तिगत समय बाधित हुआ",
+    "3d": "निरंतर डिजिटल घुसपैठ से थका हुआ महसूस करें",
+    "4": "आप एक बड़ा काम पूरा करते हैं। आप कैसा महसूस करते हैं?",
+    "4a": "कुछ भी पर्याप्त नहीं लगता, पहले से ही सोच रहा हूं कि आगे क्या है",
+    "4b": "अपनी कीमत साबित करने के लिए खुद को और जोर से धकेलें",
+    "4c": "बिल्कुल कुछ नहीं महसूस करें। कोई संतुष्टि नहीं।",
+    "4d": "वह स्पार्क नहीं मिल रहा जो मुझे अपने काम के लिए होता था",
+    "5": "आजकल आपके रचनात्मक विचार कैसे हैं?",
+    "5a": "पूरी तरह से सूख गए। कुआं खाली है।",
+    "5b": "मुझे अब परवाह नहीं है। विचार व्यर्थ लगते हैं।",
+    "5c": "जब प्रेरित नहीं होता तब भी खुद को उत्पादन के लिए मजबूर करें",
+    "5d": "अपने विचार दूसरों को दे दें क्योंकि मैं उन्हें निष्पादित करने के लिए बहुत थका हुआ हूं",
+    "6": "इन दिनों आपकी ऊर्जा कहां से आती है?",
+    "6a": "शुद्ध कैफीन और सरासर इच्छाशक्ति",
+    "6b": "नकली। मैं ठीक होने का दिखावा करता हूं जबकि मैं नहीं हूं।",
+    "6c": "कहीं से नहीं। मैं पूरी तरह से समाप्त हो गया हूं।",
+    "6d": "स्क्रीन टाइम विरोधाभासी रूप से मुझे और अधिक थका देता है",
+    "7": "आप अपने काम के उद्देश्य के बारे में कैसा महसूस करते हैं?",
+    "7a": "अर्थ की सभी भावना खो दी है या मैं यह क्यों कर रहा हूं",
+    "7b": "लगातार अपने मूल्य और मूल्य को साबित करने की कोशिश कर रहा हूं",
+    "7c": "केवल दूसरों की मदद करने में उद्देश्य खोजें, अपने आप में नहीं",
+    "7d": "वास्तविक संबंध के बिना गतिविधियों से गुजर रहा हूं"
   },
   "analyzing": {
-    "title": "Analyzing your burnout patterns...",
-    "scanning": "Scanning stress levels...",
-    "matching": "Matching with burnout types...",
-    "comparing": "Comparing recovery patterns...",
-    "complete": "Analysis complete!"
+    "title": "आपके बर्नआउट पैटर्न का विश्लेषण कर रहे हैं...",
+    "scanning": "तनाव स्तर स्कैन कर रहे हैं...",
+    "matching": "बर्नआउट टाइप से मिलान कर रहे हैं...",
+    "comparing": "रिकवरी पैटर्न की तुलना कर रहे हैं...",
+    "complete": "विश्लेषण पूर्ण!"
   },
   "result": {
-    "your_type": "Your Burnout Type",
-    "burnout_metrics": "Burnout Dimensions",
-    "key_traits": "Key Patterns",
-    "moreTests": "Explore More",
-    "share": "Share Your Result",
-    "percentile": "Only {pct} of all participants experience {type} burnout"
+    "your_type": "आपका बर्नआउट टाइप",
+    "burnout_metrics": "बर्नआउट आयाम",
+    "key_traits": "मुख्य पैटर्न",
+    "moreTests": "और देखें",
+    "share": "अपना परिणाम साझा करें",
+    "percentile": "सभी प्रतिभागियों में से केवल {pct} {type} बर्नआउट का अनुभव करते हैं"
   },
   "metric": {
-    "workload": "Workload",
-    "emotionalDrain": "Emotional Drain",
-    "cynicism": "Cynicism",
-    "efficacy": "Efficacy",
-    "recovery": "Recovery"
+    "workload": "कार्यभार",
+    "emotionalDrain": "भावनात्मक थकावट",
+    "cynicism": "निंदक",
+    "efficacy": "प्रभावकारिता",
+    "recovery": "रिकवरी"
   },
   "type": {
     "overachiever": {
-      "name": "Overachiever Burnout",
-      "tagline": "Perfectionism meets chronic overwork",
-      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
-      "trait1": "Rest feels like weakness",
-      "trait2": "Never enough achievement",
-      "trait3": "Productivity = worth"
+      "name": "अधिक उपलब्धि प्राप्तकर्ता बर्नआउट",
+      "tagline": "पूर्णतावाद पुराने अधिक काम से मिलता है",
+      "description": "आपने उपलब्धि के चारों ओर अपनी पहचान बनाई है, लेकिन बार बढ़ता रहता है। आराम असफलता की तरह महसूस होता है। आप थकावट के माध्यम से आगे बढ़ते हैं क्योंकि रुकने का मतलब है भयानक सवाल का सामना करना: आप अपनी उत्पादकता के बिना कौन हैं? आप धुएं पर चल रहे हैं, लेकिन आप धीमा नहीं हो सकते क्योंकि आपका आत्म-मूल्य उत्पादन से जुड़ा है।",
+      "trait1": "आराम कमजोरी की तरह लगता है",
+      "trait2": "कभी पर्याप्त उपलब्धि नहीं",
+      "trait3": "उत्पादकता = मूल्य"
     },
     "empathy": {
-      "name": "Empathy Burnout",
-      "tagline": "Emotional labor has drained your tank",
-      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
-      "trait1": "Others' emotions drain you",
-      "trait2": "Caregiver with no care",
-      "trait3": "Compassion fatigue"
+      "name": "सहानुभूति बर्नआउट",
+      "tagline": "भावनात्मक श्रम ने आपकी टैंक खाली कर दी है",
+      "description": "आप सभी के लिए चट्टान रहे हैं जबकि आपकी अपनी नींव चरमरा रही है। देखभाल करने वाले पेशे, देखभाल करने वाली भूमिकाएं, या सिर्फ 'थेरेपिस्ट दोस्त' होने ने आपको भावनात्मक रूप से दिवालिया कर दिया है। आप दूसरों का दर्द अवशोषित करते हैं, लेकिन कोई भी आपका कप नहीं भरता। करुणा थकान कमजोरी नहीं है—यह तब होता है जब आप उससे अधिक देते हैं जो आपके पास है।",
+      "trait1": "दूसरों की भावनाएं आपको थका देती हैं",
+      "trait2": "बिना देखभाल के देखभालकर्ता",
+      "trait3": "करुणा थकान"
     },
     "boredom": {
-      "name": "Boredom Burnout",
-      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
-      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
-      "trait1": "Chronic under-stimulation",
-      "trait2": "Meaning has evaporated",
-      "trait3": "Checked out mentally"
+      "name": "बोरियत बर्नआउट",
+      "tagline": "दोहराव वाले कार्य, शून्य वृद्धि, आत्मा-कुचलने वाली एकरसता",
+      "description": "आप अधिक काम नहीं कर रहे हैं—आप कम-चुनौती प्राप्त हैं। वही कार्य, वही बैठकें, वही कुछ भी नहीं दिन के बाद दिन। आप मानसिक रूप से चेक आउट हो गए हैं क्योंकि जुड़ने के लिए कुछ भी नहीं बचा है। यह आलस्य नहीं है; यह आपका मस्तिष्क है जो पुरानी कम-उत्तेजना से बंद हो रहा है। आप स्थिरता से सड़ रहे हैं।",
+      "trait1": "पुरानी कम-उत्तेजना",
+      "trait2": "अर्थ वाष्पित हो गया है",
+      "trait3": "मानसिक रूप से चेक आउट"
     },
     "invisible": {
-      "name": "Invisible Burnout",
-      "tagline": "High-functioning on the outside, collapsing inside",
-      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
-      "trait1": "Masked exhaustion",
-      "trait2": "High-functioning facade",
-      "trait3": "Invisible suffering"
+      "name": "अदृश्य बर्नआउट",
+      "tagline": "बाहर से उच्च-कार्यशील, अंदर से ढह रहा है",
+      "description": "आप ठीक लगते हैं। आप अच्छा प्रदर्शन करते हैं। कोई नहीं जानता कि आप मुश्किल से इसे एक साथ पकड़ रहे हैं। आपने पॉलिश बाहरी की कला में महारत हासिल की है जबकि आंतरिक रूप से, आप चीख रहे हैं। यह सबसे खतरनाक बर्नआउट है क्योंकि यह छिपा हुआ है—यहां तक कि खुद से भी। आप सादे दृष्टि में डूब रहे हैं।",
+      "trait1": "नकाबपोश थकावट",
+      "trait2": "उच्च-कार्यशील मुखौटा",
+      "trait3": "अदृश्य पीड़ा"
     },
     "creative": {
-      "name": "Creative Burnout",
-      "tagline": "The well of ideas has run dry",
-      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
-      "trait1": "Inspiration has vanished",
-      "trait2": "Forced creativity",
-      "trait3": "Identity crisis"
+      "name": "रचनात्मक बर्नआउट",
+      "tagline": "विचारों का कुआं सूख गया है",
+      "description": "आप प्रेरणा से भरे हुए थे। अब, कुछ भी नहीं है। स्पार्क चला गया है। बनाने का हर प्रयास मजबूर, खोखला, प्रदर्शनकारी लगता है। आप अवरुद्ध नहीं हैं—आप समाप्त हो गए हैं। आपकी रचनात्मक पहचान ढह रही है क्योंकि आपने परियोजनाओं, ग्राहकों और मांगों को सब कुछ दे दिया है, उस काम के लिए कुछ भी नहीं छोड़ा है जो आपको रोशन करता था।",
+      "trait1": "प्रेरणा गायब हो गई है",
+      "trait2": "मजबूर रचनात्मकता",
+      "trait3": "पहचान संकट"
     },
     "digital": {
-      "name": "Digital Burnout",
-      "tagline": "Always online, never recharged",
-      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
-      "trait1": "Screen time overload",
-      "trait2": "Never offline",
-      "trait3": "Digital exhaustion"
+      "name": "डिजिटल बर्नआउट",
+      "tagline": "हमेशा ऑनलाइन, कभी रिचार्ज नहीं",
+      "description": "स्क्रीन थकान। अधिसूचना ओवरलोड। सूचना हिमस्खलन। आप लगातार प्लग इन हैं, और यह आपके सर्किट को तल रहा है। डूम स्क्रॉलिंग, निरंतर कनेक्टिविटी, और हमेशा जवाब देने का दबाव आपको मानसिक रूप से थका देता है। आप बहुत मेहनत से काम करने से नहीं जल गए हैं, बल्कि कभी भी वास्तव में डिस्कनेक्ट न होने से।",
+      "trait1": "स्क्रीन टाइम ओवरलोड",
+      "trait2": "कभी ऑफलाइन नहीं",
+      "trait3": "डिजिटल थकावट"
     }
   },
   "share": {
-    "text": "My burnout type is '{type}'! What's yours?"
+    "text": "मेरा बर्नआउट टाइप '{type}' है! आपका क्या है?"
   },
   "related": {
-    "stressCheck": "Stress Check",
-    "hspTest": "HSP Test",
-    "dopamineType": "Dopamine Type",
-    "overthinkerTest": "Overthinker Test"
+    "stressCheck": "स्ट्रेस चेक",
+    "hspTest": "HSP टेस्ट",
+    "dopamineType": "डोपामाइन टाइप",
+    "overthinkerTest": "ओवरथिंकर टेस्ट"
   },
   "game": {
-    "back": "DopaBrain Home"
+    "back": "DopaBrain होम"
   }
 }
