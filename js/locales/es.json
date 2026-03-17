@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "Burnout Test",
+    "loading": "Loading...",
+    "skipLink": "Skip to main"
+  },
+  "meta": {
+    "description": "What's your burnout type? Take this viral quiz with 8 questions to discover your professional and emotional burnout pattern!",
+    "keywords": "burnout test, burnout type, stress test, work burnout, emotional burnout, professional burnout",
+    "og_title": "Burnout Test - What's Your Burnout Type?",
+    "og_description": "8 questions reveal your burnout type!",
+    "twitter_title": "Burnout Test - What's Your Burnout Type?",
+    "twitter_description": "8 questions reveal your burnout type!",
+    "page_title": "Burnout Test - What's Your Burnout Type? | DopaBrain"
+  },
+  "intro": {
+    "title": "Burnout Test",
+    "subtitle": "What's your burnout type?",
+    "social_proof": "people tested",
+    "feature_types": "6 burnout types",
+    "feature_questions": "8 stress scenarios",
+    "feature_metrics": "5 burnout dimensions",
+    "time_estimate": "Takes about 1 minute"
+  },
+  "button": {
+    "start": "Discover Your Burnout Type",
+    "retry": "Try Again",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "question": {
+    "0": "How do you spend your weekends?",
+    "0a": "Catching up on work I didn't finish during the week",
+    "0b": "Helping friends/family with their problems",
+    "0c": "Scrolling mindlessly, too bored to do anything meaningful",
+    "0d": "Resting, but feeling guilty I'm not being productive",
+
+    "1": "How do you feel first thing in the morning?",
+    "1a": "Already checking emails before my feet hit the floor",
+    "1b": "Dread. Just pure dread for the day ahead.",
+    "1c": "Uninspired. Another day of the same routine.",
+    "1d": "Disconnected, like I'm on autopilot",
+
+    "2": "A colleague needs support. What's your response?",
+    "2a": "Drop everything to emotionally support them",
+    "2b": "Offer to help with tasks (easier than feelings)",
+    "2c": "Avoid interaction, I have nothing left to give",
+    "2d": "Listen politely but feel completely empty inside",
+
+    "3": "You get a work notification after hours. What happens?",
+    "3a": "Respond immediately—boundaries are a myth",
+    "3b": "Ignore it but feel anxious about it all night",
+    "3c": "Feel annoyed that my personal time is interrupted",
+    "3d": "Feel drained by the constant digital intrusion",
+
+    "4": "You finish a big task. How do you feel?",
+    "4a": "Nothing feels like enough, already thinking about what's next",
+    "4b": "Push myself harder to prove my worth",
+    "4c": "Feel absolutely nothing. No satisfaction.",
+    "4d": "Can't find the spark I used to have for my work",
+
+    "5": "How are your creative ideas lately?",
+    "5a": "Completely dried up. The well is empty.",
+    "5b": "I don't care anymore. Ideas feel pointless.",
+    "5c": "Force myself to produce even when uninspired",
+    "5d": "Give my ideas away because I'm too tired to execute",
+
+    "6": "Where does your energy come from these days?",
+    "6a": "Pure caffeine and sheer willpower",
+    "6b": "Faking it. I pretend I'm fine when I'm not.",
+    "6c": "Nowhere. I'm completely depleted.",
+    "6d": "Screen time paradoxically drains me more",
+
+    "7": "How do you feel about your work's purpose?",
+    "7a": "Lost all sense of meaning or why I'm doing this",
+    "7b": "Constantly trying to prove my worth and value",
+    "7c": "Only find purpose in helping others, not myself",
+    "7d": "Going through the motions without real connection"
+  },
+  "analyzing": {
+    "title": "Analyzing your burnout patterns...",
+    "scanning": "Scanning stress levels...",
+    "matching": "Matching with burnout types...",
+    "comparing": "Comparing recovery patterns...",
+    "complete": "Analysis complete!"
+  },
+  "result": {
+    "your_type": "Your Burnout Type",
+    "burnout_metrics": "Burnout Dimensions",
+    "key_traits": "Key Patterns",
+    "moreTests": "Explore More",
+    "share": "Share Your Result",
+    "percentile": "Only {pct} of all participants experience {type} burnout"
+  },
+  "metric": {
+    "workload": "Workload",
+    "emotionalDrain": "Emotional Drain",
+    "cynicism": "Cynicism",
+    "efficacy": "Efficacy",
+    "recovery": "Recovery"
+  },
+  "type": {
+    "overachiever": {
+      "name": "Overachiever Burnout",
+      "tagline": "Perfectionism meets chronic overwork",
+      "description": "You've built your identity around achievement, but the bar keeps rising. Rest feels like failure. You push through exhaustion because stopping means facing the terrifying question: who are you without your productivity? You're running on fumes, but you can't slow down because your self-worth is tied to output.",
+      "trait1": "Rest feels like weakness",
+      "trait2": "Never enough achievement",
+      "trait3": "Productivity = worth"
+    },
+    "empathy": {
+      "name": "Empathy Burnout",
+      "tagline": "Emotional labor has drained your tank",
+      "description": "You've been the rock for everyone else while your own foundation crumbles. Caring professions, caregiving roles, or just being the 'therapist friend' has left you emotionally bankrupt. You absorb others' pain, but no one refills your cup. Compassion fatigue isn't weakness—it's what happens when you give more than you have.",
+      "trait1": "Others' emotions drain you",
+      "trait2": "Caregiver with no care",
+      "trait3": "Compassion fatigue"
+    },
+    "boredom": {
+      "name": "Boredom Burnout",
+      "tagline": "Repetitive tasks, zero growth, soul-crushing monotony",
+      "description": "You're not overworked—you're under-challenged. The same tasks, same meetings, same nothing day after day. You've checked out mentally because there's nothing left to engage with. It's not laziness; it's your brain shutting down from chronic under-stimulation. You're rotting from stagnation.",
+      "trait1": "Chronic under-stimulation",
+      "trait2": "Meaning has evaporated",
+      "trait3": "Checked out mentally"
+    },
+    "invisible": {
+      "name": "Invisible Burnout",
+      "tagline": "High-functioning on the outside, collapsing inside",
+      "description": "You look fine. You perform well. No one knows you're barely holding it together. You've mastered the art of the polished exterior while internally, you're screaming. This is the most dangerous burnout because it's hidden—even from yourself. You're drowning in plain sight.",
+      "trait1": "Masked exhaustion",
+      "trait2": "High-functioning facade",
+      "trait3": "Invisible suffering"
+    },
+    "creative": {
+      "name": "Creative Burnout",
+      "tagline": "The well of ideas has run dry",
+      "description": "You used to overflow with inspiration. Now, there's nothing. The spark is gone. Every attempt to create feels forced, hollow, performative. You're not blocked—you're depleted. Your creative identity is crumbling because you've given everything to projects, clients, and demands, leaving nothing for the work that used to light you up.",
+      "trait1": "Inspiration has vanished",
+      "trait2": "Forced creativity",
+      "trait3": "Identity crisis"
+    },
+    "digital": {
+      "name": "Digital Burnout",
+      "tagline": "Always online, never recharged",
+      "description": "Screen fatigue. Notification overload. Information avalanche. You're perpetually plugged in, and it's frying your circuits. Doom scrolling, constant connectivity, and the pressure to always respond has left you mentally exhausted. You're burned out not from working too hard, but from never truly disconnecting.",
+      "trait1": "Screen time overload",
+      "trait2": "Never offline",
+      "trait3": "Digital exhaustion"
+    }
+  },
+  "share": {
+    "text": "My burnout type is '{type}'! What's yours?"
+  },
+  "related": {
+    "stressCheck": "Stress Check",
+    "hspTest": "HSP Test",
+    "dopamineType": "Dopamine Type",
+    "overthinkerTest": "Overthinker Test"
+  },
+  "game": {
+    "back": "DopaBrain Home"
+  }
+}
