@@ -152,7 +152,8 @@
     "hspTest": "HSP Testi",
     "dopamineType": "Dopamin Tipi",
     "overthinkerTest": "Aşırı Düşünme Testi",
-    "stressResponse": "Stres Tepkisi"
+    "stressResponse": "Stres Tepkisi",
+    "anxietyType": "Kaygı Tipi"
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"

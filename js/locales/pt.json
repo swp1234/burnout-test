@@ -152,7 +152,8 @@
     "hspTest": "Teste PAS",
     "dopamineType": "Tipo de Dopamina",
     "overthinkerTest": "Teste de Overthinking",
-    "stressResponse": "Resposta ao Estresse"
+    "stressResponse": "Resposta ao Estresse",
+    "anxietyType": "Tipo de Ansiedade"
   },
   "game": {
     "back": "Início DopaBrain"

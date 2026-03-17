@@ -152,7 +152,8 @@
     "hspTest": "HSP Test",
     "dopamineType": "Dopamine Type",
     "overthinkerTest": "Overthinker Test",
-    "stressResponse": "Stress Response"
+    "stressResponse": "Stress Response",
+    "anxietyType": "Anxiety Type"
   },
   "game": {
     "back": "DopaBrain Home"

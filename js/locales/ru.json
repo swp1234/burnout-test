@@ -152,7 +152,8 @@
     "hspTest": "Тест на чувствительность",
     "dopamineType": "Тип дофамина",
     "overthinkerTest": "Тест на overthinking",
-    "stressResponse": "Стресс-реакция"
+    "stressResponse": "Стресс-реакция",
+    "anxietyType": "Тип тревожности"
   },
   "game": {
     "back": "Главная DopaBrain"

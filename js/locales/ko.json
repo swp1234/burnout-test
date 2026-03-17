@@ -152,7 +152,8 @@
     "hspTest": "HSP 테스트",
     "dopamineType": "도파민 유형",
     "overthinkerTest": "생각과다 테스트",
-    "stressResponse": "스트레스 반응"
+    "stressResponse": "스트레스 반응",
+    "anxietyType": "불안 유형"
   },
   "game": {
     "back": "DopaBrain 홈"

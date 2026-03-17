@@ -152,7 +152,8 @@
     "hspTest": "HSP टेस्ट",
     "dopamineType": "डोपामाइन टाइप",
     "overthinkerTest": "ओवरथिंकर टेस्ट",
-    "stressResponse": "तनाव प्रतिक्रिया"
+    "stressResponse": "तनाव प्रतिक्रिया",
+    "anxietyType": "चिंता प्रकार"
   },
   "game": {
     "back": "DopaBrain होम"

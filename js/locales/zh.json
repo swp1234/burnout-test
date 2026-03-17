@@ -152,7 +152,8 @@
     "hspTest": "HSP测试",
     "dopamineType": "多巴胺类型",
     "overthinkerTest": "过度思考者测试",
-    "stressResponse": "压力反应"
+    "stressResponse": "压力反应",
+    "anxietyType": "焦虑类型"
   },
   "game": {
     "back": "DopaBrain 主页"

@@ -152,7 +152,8 @@
     "hspTest": "Tes HSP",
     "dopamineType": "Tipe Dopamin",
     "overthinkerTest": "Tes Overthinking",
-    "stressResponse": "Respons Stres"
+    "stressResponse": "Respons Stres",
+    "anxietyType": "Tipe Kecemasan"
   },
   "game": {
     "back": "Beranda DopaBrain"
