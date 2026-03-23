@@ -153,7 +153,8 @@
     "dopamineType": "Dopamine Type",
     "overthinkerTest": "Overthinker Test",
     "stressResponse": "Stress Response",
-    "anxietyType": "Anxiety Type"
+    "anxietyType": "Anxiety Type",
+    "attachmentStyle": "Attachment Style"
   },
   "game": {
     "back": "DopaBrain Home"

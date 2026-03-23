@@ -153,7 +153,8 @@
     "dopamineType": "도파민 유형",
     "overthinkerTest": "생각과다 테스트",
     "stressResponse": "스트레스 반응",
-    "anxietyType": "불안 유형"
+    "anxietyType": "불안 유형",
+    "attachmentStyle": "애착 유형"
   },
   "game": {
     "back": "DopaBrain 홈"
