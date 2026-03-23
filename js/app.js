@@ -179,6 +179,7 @@ class BurnoutApp {
         }
 
         // Share buttons
+        document.getElementById('save-result')?.addEventListener('click', () => this.downloadResultCard());
         document.getElementById('share-kakao')?.addEventListener('click', () => this.shareKakao());
         document.getElementById('share-twitter')?.addEventListener('click', () => this.shareTwitter());
         document.getElementById('share-facebook')?.addEventListener('click', () => this.shareFacebook());
@@ -437,6 +438,26 @@ class BurnoutApp {
     restart() {
         this.showScreen('intro-screen');
         window.scrollTo(0, 0);
+    }
+
+    downloadResultCard() {
+        if (!this.resultType || typeof ResultCard === 'undefined') return;
+        const t = window.i18n ? window.i18n.t.bind(window.i18n) : (k) => k;
+        const metrics = this.resultType.metrics;
+        const dimensionLabels = ['Workload', 'Emotional Drain', 'Cynicism', 'Efficacy', 'Recovery'];
+        const dimensions = Object.entries(metrics).map(([key, val], idx) => ({
+            label: dimensionLabels[idx] || key,
+            pct: val,
+            color: this.resultType.color
+        }));
+        ResultCard.download({
+            appName: 'Burnout Test',
+            typeName: t(this.resultType.nameKey),
+            typeEmoji: this.resultType.emoji,
+            dimensions: dimensions,
+            primaryColor: '#ef4444',
+            tagline: 'dopabrain.com/burnout-test'
+        });
     }
 
     // Share functions
