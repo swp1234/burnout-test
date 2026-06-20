@@ -153,7 +153,8 @@
     "dopamineType": "Type de Dopamine",
     "overthinkerTest": "Test de Surréflexion",
     "stressResponse": "Réponse au Stress",
-    "anxietyType": "Type d'Anxiété"
+    "anxietyType": "Type d'Anxiété",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "Accueil DopaBrain"

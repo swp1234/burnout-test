@@ -154,7 +154,8 @@
     "overthinkerTest": "생각과다 테스트",
     "stressResponse": "스트레스 반응",
     "anxietyType": "불안 유형",
-    "attachmentStyle": "애착 유형"
+    "attachmentStyle": "애착 유형",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain 홈"

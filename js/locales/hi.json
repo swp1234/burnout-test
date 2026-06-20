@@ -153,7 +153,8 @@
     "dopamineType": "डोपामाइन टाइप",
     "overthinkerTest": "ओवरथिंकर टेस्ट",
     "stressResponse": "तनाव प्रतिक्रिया",
-    "anxietyType": "चिंता प्रकार"
+    "anxietyType": "चिंता प्रकार",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain होम"

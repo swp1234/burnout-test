@@ -153,7 +153,8 @@
     "dopamineType": "多巴胺类型",
     "overthinkerTest": "过度思考者测试",
     "stressResponse": "压力反应",
-    "anxietyType": "焦虑类型"
+    "anxietyType": "焦虑类型",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain 主页"

@@ -153,7 +153,8 @@
     "dopamineType": "Dopamin Tipi",
     "overthinkerTest": "Aşırı Düşünme Testi",
     "stressResponse": "Stres Tepkisi",
-    "anxietyType": "Kaygı Tipi"
+    "anxietyType": "Kaygı Tipi",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"

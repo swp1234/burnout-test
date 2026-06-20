@@ -153,7 +153,8 @@
     "dopamineType": "Dopamin-Typ",
     "overthinkerTest": "Grübler-Test",
     "stressResponse": "Stressreaktion",
-    "anxietyType": "Angsttyp"
+    "anxietyType": "Angsttyp",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain Startseite"

@@ -153,7 +153,8 @@
     "dopamineType": "ドーパミンタイプ",
     "overthinkerTest": "考えすぎ診断",
     "stressResponse": "ストレス反応",
-    "anxietyType": "不安タイプ"
+    "anxietyType": "不安タイプ",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain ホーム"
