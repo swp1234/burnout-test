@@ -5,68 +5,67 @@
     "skipLink": "Ir al contenido principal"
   },
   "meta": {
-    "description": "¿Cuál es tu tipo de burnout? ¡Haz este test viral de 8 preguntas y descubre tu patrón de agotamiento profesional y emocional!",
+    "description": "Usa 8 situaciones de estr?s laboral para reflexionar sobre uno de seis patrones creados. No es un diagn?stico ni una evaluaci?n validada.",
     "keywords": "test de burnout, tipo de burnout, test de estrés, agotamiento laboral, agotamiento emocional, burnout profesional",
     "og_title": "Test de Burnout - ¿Cuál es tu tipo de burnout?",
-    "og_description": "¡8 preguntas revelan tu tipo de burnout!",
+    "og_description": "Usa 8 situaciones de estr?s laboral para reflexionar sobre uno de seis patrones creados. No es un diagn?stico ni una evaluaci?n validada.",
     "twitter_title": "Test de Burnout - ¿Cuál es tu tipo de burnout?",
-    "twitter_description": "¡8 preguntas revelan tu tipo de burnout!",
+    "twitter_description": "Usa 8 situaciones de estr?s laboral para reflexionar sobre uno de seis patrones creados. No es un diagn?stico ni una evaluaci?n validada.",
     "page_title": "Test de Burnout - ¿Cuál es tu tipo de burnout? | DopaBrain"
   },
   "intro": {
     "title": "Test de Burnout",
     "subtitle": "¿Cuál es tu tipo de burnout?",
-    "social_proof": "personas evaluadas",
     "feature_types": "6 tipos de burnout",
     "feature_questions": "8 escenarios de estrés",
-    "feature_metrics": "5 dimensiones de burnout",
-    "time_estimate": "Toma aproximadamente 1 minuto"
+    "time_estimate": "Toma aproximadamente 1 minuto",
+    "feature_method": "Regla de puntuaci?n publicada",
+    "method": "Cada respuesta suma de 0 a 3 puntos creados en seis etiquetas. Se muestra el total m?s alto; los empates siguen el orden de la lista.",
+    "boundary": "Es una propuesta de reflexi?n, no un diagn?stico ni una evaluaci?n validada del burnout.",
+    "source": "OMS: el burnout como fen?meno ocupacional"
   },
   "button": {
     "start": "Descubre tu tipo de burnout",
     "retry": "Intentar de nuevo",
-    "share_kakao": "KakaoTalk",
-    "share_twitter": "Twitter",
-    "share_facebook": "Facebook",
-    "share_copy": "Copiar enlace"
+    "share": "Compartir enlace neutral"
   },
   "question": {
     "0": "¿Cómo pasas tus fines de semana?",
+    "1": "¿Cómo te sientes al despertar por la mañana?",
+    "2": "Un compañero necesita apoyo. ¿Cuál es tu respuesta?",
+    "3": "Recibes una notificación de trabajo fuera de horario. ¿Qué pasa?",
+    "4": "Terminas una tarea importante. ¿Cómo te sientes?",
+    "5": "¿Cómo van tus ideas creativas últimamente?",
+    "6": "¿De dónde sacas energía últimamente?",
+    "7": "¿Cómo te sientes sobre el propósito de tu trabajo?",
     "0a": "Terminando el trabajo que no completé durante la semana",
     "0b": "Ayudando a amigos/familiares con sus problemas",
     "0c": "Desplazándome sin sentido por el móvil, demasiado aburrido/a para algo útil",
     "0d": "Descansando, pero sintiéndome culpable por no ser productivo/a",
-    "1": "¿Cómo te sientes al despertar por la mañana?",
     "1a": "Ya estoy revisando correos antes de levantarme de la cama",
     "1b": "Pavor. Puro pavor por el día que viene.",
     "1c": "Sin inspiración. Otro día de la misma rutina.",
     "1d": "Desconectado/a, como si estuviera en piloto automático",
-    "2": "Un compañero necesita apoyo. ¿Cuál es tu respuesta?",
     "2a": "Dejo todo para apoyarle emocionalmente",
     "2b": "Ofrezco ayuda con tareas (es más fácil que lidiar con emociones)",
     "2c": "Evito la interacción, no me queda nada que dar",
     "2d": "Escucho educadamente pero me siento completamente vacío/a por dentro",
-    "3": "Recibes una notificación de trabajo fuera de horario. ¿Qué pasa?",
     "3a": "Respondo inmediatamente: los límites son un mito",
     "3b": "Lo ignoro pero me paso toda la noche con ansiedad",
     "3c": "Me molesta que interrumpan mi tiempo personal",
     "3d": "Me siento agotado/a por la constante intrusión digital",
-    "4": "Terminas una tarea importante. ¿Cómo te sientes?",
     "4a": "Nada parece suficiente, ya estoy pensando en lo siguiente",
     "4b": "Me exijo aún más para demostrar mi valía",
     "4c": "No siento absolutamente nada. Ninguna satisfacción.",
     "4d": "No encuentro la chispa que solía tener por mi trabajo",
-    "5": "¿Cómo van tus ideas creativas últimamente?",
     "5a": "Completamente agotadas. El pozo está vacío.",
     "5b": "Ya no me importa. Las ideas me parecen inútiles.",
     "5c": "Me obligo a producir incluso sin inspiración",
     "5d": "Regalo mis ideas porque estoy demasiado cansado/a para ejecutarlas",
-    "6": "¿De dónde sacas energía últimamente?",
     "6a": "Pura cafeína y fuerza de voluntad",
     "6b": "Fingiendo. Pretendo estar bien cuando no lo estoy.",
     "6c": "De ningún lado. Estoy completamente agotado/a.",
     "6d": "El tiempo de pantalla paradójicamente me agota más",
-    "7": "¿Cómo te sientes sobre el propósito de tu trabajo?",
     "7a": "Perdí todo sentido de propósito o razón de por qué hago esto",
     "7b": "Constantemente intentando demostrar mi valor",
     "7c": "Solo encuentro propósito ayudando a otros, no a mí mismo/a",
@@ -74,25 +73,19 @@
   },
   "analyzing": {
     "title": "Analizando tus patrones de burnout...",
-    "scanning": "Escaneando niveles de estrés...",
-    "matching": "Identificando tipo de burnout...",
-    "comparing": "Comparando patrones de recuperación...",
-    "complete": "¡Análisis completo!"
+    "scanning": "Revisando tus respuestas...",
+    "matching": "Sumando los puntos publicados...",
+    "comparing": "Buscando la etiqueta m?s alta...",
+    "complete": "Tu reflexi?n est? lista."
   },
   "result": {
-    "your_type": "Tu tipo de burnout",
-    "burnout_metrics": "Dimensiones de burnout",
+    "your_type": "Tu patr?n de reflexi?n",
     "key_traits": "Patrones clave",
-    "moreTests": "Explorar más",
-    "share": "Comparte tu resultado",
-    "percentile": "Solo el {pct} de los participantes experimenta burnout tipo {type}"
-  },
-  "metric": {
-    "workload": "Carga laboral",
-    "emotionalDrain": "Desgaste emocional",
-    "cynicism": "Cinismo",
-    "efficacy": "Eficacia",
-    "recovery": "Recuperación"
+    "share": "Compartir la reflexi?n",
+    "boundary_note": "Esta etiqueta es una propuesta creada para reflexionar, no una medida, diagn?stico ni comparaci?n con otras personas.",
+    "next_title": "Elige un siguiente paso",
+    "primary_action": "Revisar se?ales actuales de estr?s",
+    "guide_action": "Leer pasos pr?cticos sobre el estr?s"
   },
   "type": {
     "overachiever": {
@@ -145,16 +138,9 @@
     }
   },
   "share": {
-    "text": "¡Mi tipo de burnout es '{type}'! ¿Cuál es el tuyo?"
-  },
-  "related": {
-    "stressCheck": "Test de Estrés",
-    "hspTest": "Test PAS",
-    "dopamineType": "Tipo de Dopamina",
-    "overthinkerTest": "Test de Sobrepensar",
-    "stressResponse": "Respuesta al Estrés",
-    "anxietyType": "Tipo de Ansiedad",
-    "hailMaryMode": "Hail Mary Mode Test"
+    "text": "Prueba esta reflexi?n de ocho situaciones sobre el estr?s laboral.",
+    "success": "Enlace compartido o copiado.",
+    "unavailable": "No se complet? el uso compartido."
   },
   "game": {
     "back": "Inicio DopaBrain"

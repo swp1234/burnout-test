@@ -22,7 +22,7 @@ try {
         if (saved && SUPPORTED.indexOf(saved) !== -1) return saved;
         var browser = (navigator.language || '').split('-')[0].toLowerCase();
         if (SUPPORTED.indexOf(browser) !== -1) return browser;
-        return 'ko';
+        return 'en';
     };
 
     I18n.prototype.loadTranslations = function(lang) {
@@ -46,7 +46,7 @@ try {
             .catch(function(e) {
                 console.error('i18n load error:', e);
                 self.isLoading = false;
-                if (lang !== 'ko') return self.loadTranslations('ko');
+                if (lang !== 'en') return self.loadTranslations('en');
             });
     };
 

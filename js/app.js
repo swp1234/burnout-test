@@ -1,6 +1,6 @@
 // Burnout Test - What's Your Burnout Type?
 // 8 questions, 6 burnout types
-// Dimensions: workload, emotional_drain, cynicism, efficacy, recovery
+// Authored reflection labels; this is not a diagnostic instrument.
 
 const QUESTIONS = [
     { id: 0, icon: '\u{1F4BC}', dimension: 'weekend', questionKey: 'question.0', options: ['question.0a', 'question.0b', 'question.0c', 'question.0d'] },
@@ -65,7 +65,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.overachiever.tagline',
         descKey: 'type.overachiever.description',
         traitsKeys: ['type.overachiever.trait1', 'type.overachiever.trait2', 'type.overachiever.trait3'],
-        metrics: { workload: 95, emotionalDrain: 70, cynicism: 40, efficacy: 85, recovery: 20 },
         color: '#ef4444'
     },
     empathy: {
@@ -75,7 +74,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.empathy.tagline',
         descKey: 'type.empathy.description',
         traitsKeys: ['type.empathy.trait1', 'type.empathy.trait2', 'type.empathy.trait3'],
-        metrics: { workload: 65, emotionalDrain: 98, cynicism: 30, efficacy: 60, recovery: 25 },
         color: '#ec4899'
     },
     boredom: {
@@ -85,7 +83,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.boredom.tagline',
         descKey: 'type.boredom.description',
         traitsKeys: ['type.boredom.trait1', 'type.boredom.trait2', 'type.boredom.trait3'],
-        metrics: { workload: 50, emotionalDrain: 60, cynicism: 90, efficacy: 35, recovery: 40 },
         color: '#6366f1'
     },
     invisible: {
@@ -95,7 +92,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.invisible.tagline',
         descKey: 'type.invisible.description',
         traitsKeys: ['type.invisible.trait1', 'type.invisible.trait2', 'type.invisible.trait3'],
-        metrics: { workload: 75, emotionalDrain: 85, cynicism: 55, efficacy: 70, recovery: 15 },
         color: '#8b5cf6'
     },
     creative: {
@@ -105,7 +101,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.creative.tagline',
         descKey: 'type.creative.description',
         traitsKeys: ['type.creative.trait1', 'type.creative.trait2', 'type.creative.trait3'],
-        metrics: { workload: 60, emotionalDrain: 70, cynicism: 65, efficacy: 30, recovery: 35 },
         color: '#f59e0b'
     },
     digital: {
@@ -115,7 +110,6 @@ const BURNOUT_TYPES = {
         taglineKey: 'type.digital.tagline',
         descKey: 'type.digital.description',
         traitsKeys: ['type.digital.trait1', 'type.digital.trait2', 'type.digital.trait3'],
-        metrics: { workload: 55, emotionalDrain: 80, cynicism: 70, efficacy: 50, recovery: 10 },
         color: '#06b6d4'
     }
 };
@@ -128,6 +122,9 @@ class BurnoutApp {
         this.answers = [];
         this.scores = [0, 0, 0, 0, 0, 0]; // 6 burnout types
         this.resultType = null;
+        this.emittedEvents = new Set();
+        this.hasCompleted = false;
+        this.isTransitioning = false;
         this.init();
     }
 
@@ -137,14 +134,11 @@ class BurnoutApp {
             await window.i18n.init();
         }
 
+        this.sanitizeUrl();
         this.bindEvents();
+        this.syncLocalizedActions();
         this.initTheme();
         this.hideLoader();
-
-        // GA4 event
-        if (typeof gtag === 'function') {
-            gtag('event', 'page_view', { page_title: 'Burnout Test' });
-        }
     }
 
     bindEvents() {
@@ -169,21 +163,39 @@ class BurnoutApp {
                 langMenu.classList.toggle('hidden');
             });
             document.querySelectorAll('.lang-option').forEach(btn => {
-                btn.addEventListener('click', () => {
+                btn.addEventListener('click', async () => {
                     const lang = btn.getAttribute('data-lang');
-                    if (window.i18n) window.i18n.setLanguage(lang);
+                    if (window.i18n) await window.i18n.setLanguage(lang);
+                    this.syncLocalizedActions();
                     langMenu.classList.add('hidden');
                 });
             });
             document.addEventListener('click', () => langMenu.classList.add('hidden'));
         }
 
-        // Share buttons
-        document.getElementById('save-result')?.addEventListener('click', () => this.downloadResultCard());
-        document.getElementById('share-kakao')?.addEventListener('click', () => this.shareKakao());
-        document.getElementById('share-twitter')?.addEventListener('click', () => this.shareTwitter());
-        document.getElementById('share-facebook')?.addEventListener('click', () => this.shareFacebook());
-        document.getElementById('share-copy')?.addEventListener('click', () => this.shareCopy());
+        document.getElementById('share-reflection')?.addEventListener('click', () => this.shareReflection());
+        document.getElementById('next-stress-check')?.addEventListener('click', () => this.trackOnce('burnout_next_step_click'));
+        document.getElementById('next-stress-guide')?.addEventListener('click', () => this.trackOnce('burnout_guide_click'));
+    }
+
+    sanitizeUrl() {
+        const url = new URL(window.location.href);
+        const lang = url.searchParams.get('lang');
+        const clean = new URL(url.origin + url.pathname);
+        if (lang && window.i18n?.supportedLanguages.includes(lang)) clean.searchParams.set('lang', lang);
+        if (clean.href !== url.href) history.replaceState(null, '', clean.pathname + clean.search);
+    }
+
+    syncLocalizedActions() {
+        const lang = window.i18n?.getCurrentLanguage() || 'en';
+        document.getElementById('next-stress-check')?.setAttribute('href', `/stress-check/?lang=${lang}`);
+        document.getElementById('next-stress-guide')?.setAttribute('href', `/portal/blog/${lang}/stress-management-techniques-guide.html`);
+    }
+
+    trackOnce(name) {
+        if (this.emittedEvents.has(name)) return;
+        this.emittedEvents.add(name);
+        if (typeof gtag === 'function') gtag('event', name);
     }
 
     hideLoader() {
@@ -226,15 +238,16 @@ class BurnoutApp {
     }
 
     startQuiz() {
+        this.emittedEvents = new Set();
+        this.hasCompleted = false;
         this.currentQuestion = 0;
         this.answers = [];
         this.scores = [0, 0, 0, 0, 0, 0];
+        this.isTransitioning = false;
         this.showScreen('question-screen');
         this.renderQuestion();
 
-        if (typeof gtag === 'function') {
-            gtag('event', 'quiz_start', { event_category: 'burnout' });
-        }
+        this.trackOnce('burnout_reflection_start');
     }
 
     renderQuestion() {
@@ -243,7 +256,7 @@ class BurnoutApp {
 
         // Update progress
         const fill = document.getElementById('progress-fill');
-        if (fill) fill.style.width = ((this.currentQuestion / 8) * 100) + '%';
+        if (fill) fill.style.width = ((this.currentQuestion / QUESTIONS.length) * 100) + '%';
 
         const counter = document.getElementById('q-current');
         if (counter) counter.textContent = this.currentQuestion + 1;
@@ -272,6 +285,8 @@ class BurnoutApp {
     }
 
     selectOption(questionId, optionIdx, btn) {
+        if (this.isTransitioning) return;
+        this.isTransitioning = true;
         // Visual feedback
         document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected'));
         btn.classList.add('selected');
@@ -290,7 +305,8 @@ class BurnoutApp {
         // Next question after brief delay
         setTimeout(() => {
             this.currentQuestion++;
-            if (this.currentQuestion < 8) {
+            if (this.currentQuestion < QUESTIONS.length) {
+                this.isTransitioning = false;
                 this.renderQuestion();
             } else {
                 this.showAnalyzing();
@@ -362,38 +378,6 @@ class BurnoutApp {
         const desc = document.getElementById('result-description');
         if (desc) desc.textContent = t(type.descKey);
 
-        // Metrics
-        const metricsGrid = document.getElementById('metrics-grid');
-        if (metricsGrid) {
-            metricsGrid.innerHTML = '';
-            const metricLabels = {
-                workload: t('metric.workload'),
-                emotionalDrain: t('metric.emotionalDrain'),
-                cynicism: t('metric.cynicism'),
-                efficacy: t('metric.efficacy'),
-                recovery: t('metric.recovery')
-            };
-            Object.entries(type.metrics).forEach(([key, val]) => {
-                const row = document.createElement('div');
-                row.className = 'metric-row';
-                row.innerHTML = '<span class="metric-label">' + (metricLabels[key] || key) + '</span>' +
-                    '<div class="metric-bar-bg"><div class="metric-bar-fill" style="background:' + type.color + '"></div></div>' +
-                    '<span class="metric-value">' + val + '</span>';
-                metricsGrid.appendChild(row);
-                // Animate bar
-                setTimeout(() => {
-                    row.querySelector('.metric-bar-fill').style.width = val + '%';
-                }, 100);
-            });
-        }
-
-        // Percentile
-        const percentile = document.getElementById('percentile-stat');
-        const pctVal = Math.floor(Math.random() * 20) + 15; // 15-34%
-        if (percentile) {
-            percentile.innerHTML = t('result.percentile').replace('{pct}', '<strong>' + pctVal + '%</strong>').replace('{type}', t(type.nameKey));
-        }
-
         // Traits
         const traitsList = document.getElementById('traits-list');
         if (traitsList) {
@@ -409,14 +393,8 @@ class BurnoutApp {
         // Confetti
         this.spawnConfetti();
 
-        // GA4
-        if (typeof gtag === 'function') {
-            gtag('event', 'quiz_complete', {
-                event_category: 'burnout',
-                event_label: type.id,
-                value: 1
-            });
-        }
+        this.hasCompleted = true;
+        this.trackOnce('burnout_reflection_complete');
     }
 
     spawnConfetti() {
@@ -436,76 +414,28 @@ class BurnoutApp {
     }
 
     restart() {
+        if (!this.hasCompleted) return;
+        this.trackOnce('burnout_reflection_retry');
+        this.hasCompleted = false;
         this.showScreen('intro-screen');
         window.scrollTo(0, 0);
-    }
-
-    downloadResultCard() {
-        if (!this.resultType || typeof ResultCard === 'undefined') return;
-        const t = window.i18n ? window.i18n.t.bind(window.i18n) : (k) => k;
-        const metrics = this.resultType.metrics;
-        const dimensionLabels = ['Workload', 'Emotional Drain', 'Cynicism', 'Efficacy', 'Recovery'];
-        const dimensions = Object.entries(metrics).map(([key, val], idx) => ({
-            label: dimensionLabels[idx] || key,
-            pct: val,
-            color: this.resultType.color
-        }));
-        ResultCard.download({
-            appName: 'Burnout Test',
-            typeName: t(this.resultType.nameKey),
-            typeEmoji: this.resultType.emoji,
-            dimensions: dimensions,
-            primaryColor: '#ef4444',
-            tagline: 'dopabrain.com/burnout-test'
-        });
-    }
-
-    // Share functions
-    getShareText() {
-        if (!this.resultType) return '';
-        const t = window.i18n ? window.i18n.t.bind(window.i18n) : (k) => k;
-        return t('share.text').replace('{type}', t(this.resultType.nameKey));
     }
 
     getShareUrl() {
         return 'https://dopabrain.com/burnout-test/';
     }
 
-    shareKakao() {
-        const text = this.getShareText();
-        const url = 'https://sharer.kakao.com/talk/friends/picker/link?url=' + encodeURIComponent(this.getShareUrl()) + '&text=' + encodeURIComponent(text);
-        window.open(url, '_blank', 'width=600,height=400');
-    }
-
-    shareTwitter() {
-        const text = this.getShareText();
-        const url = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(text) + '&url=' + encodeURIComponent(this.getShareUrl());
-        window.open(url, '_blank', 'width=600,height=400');
-    }
-
-    shareFacebook() {
-        const url = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(this.getShareUrl());
-        window.open(url, '_blank', 'width=600,height=400');
-    }
-
-    async shareCopy() {
-        const text = this.getShareText() + ' ' + this.getShareUrl();
+    async shareReflection() {
+        const t = window.i18n ? window.i18n.t.bind(window.i18n) : (key) => key;
+        const data = { title: t('app.title'), text: t('share.text'), url: this.getShareUrl() };
+        const status = document.getElementById('share-status');
         try {
-            await navigator.clipboard.writeText(text);
-            const btn = document.getElementById('share-copy');
-            if (btn) {
-                const original = btn.textContent;
-                btn.textContent = '\u{2705} Copied!';
-                setTimeout(() => btn.textContent = original, 2000);
-            }
+            if (navigator.share) await navigator.share(data);
+            else await navigator.clipboard.writeText(data.text + ' ' + data.url);
+            if (status) status.textContent = t('share.success');
+            this.trackOnce('burnout_share_success');
         } catch (e) {
-            // Fallback
-            const ta = document.createElement('textarea');
-            ta.value = text;
-            document.body.appendChild(ta);
-            ta.select();
-            document.execCommand('copy');
-            document.body.removeChild(ta);
+            if (e?.name !== 'AbortError' && status) status.textContent = t('share.unavailable');
         }
     }
 }

@@ -5,68 +5,67 @@
     "skipLink": "Ana içeriğe geç"
   },
   "meta": {
-    "description": "Tükenmişlik tipin ne? 8 soruluk bu viral testi çöz ve profesyonel ve duygusal tükenmişlik örüntünü keşfet!",
+    "description": "8 i? stresi senaryosuyla alt? kurgusal ?r?nt?den birini d???n?n. Tan? veya do?rulanm?? t?kenmi?lik de?erlendirmesi de?ildir.",
     "keywords": "tükenmişlik testi, tükenmişlik tipi, stres testi, iş tükenmişliği, duygusal tükenmişlik, profesyonel tükenmişlik",
     "og_title": "Tükenmişlik Testi - Tükenmişlik Tipin Ne?",
-    "og_description": "8 soru tükenmişlik tipini ortaya çıkarıyor!",
+    "og_description": "8 i? stresi senaryosuyla alt? kurgusal ?r?nt?den birini d???n?n. Tan? veya do?rulanm?? t?kenmi?lik de?erlendirmesi de?ildir.",
     "twitter_title": "Tükenmişlik Testi - Tükenmişlik Tipin Ne?",
-    "twitter_description": "8 soru tükenmişlik tipini ortaya çıkarıyor!",
+    "twitter_description": "8 i? stresi senaryosuyla alt? kurgusal ?r?nt?den birini d???n?n. Tan? veya do?rulanm?? t?kenmi?lik de?erlendirmesi de?ildir.",
     "page_title": "Tükenmişlik Testi - Tükenmişlik Tipin Ne? | DopaBrain"
   },
   "intro": {
     "title": "Tükenmişlik Testi",
     "subtitle": "Tükenmişlik tipin ne?",
-    "social_proof": "kişi test edildi",
     "feature_types": "6 tükenmişlik tipi",
     "feature_questions": "8 stres senaryosu",
-    "feature_metrics": "5 tükenmişlik boyutu",
-    "time_estimate": "Yaklaşık 1 dakika sürer"
+    "time_estimate": "Yaklaşık 1 dakika sürer",
+    "feature_method": "Yay?mlanm?? puanlama kural?",
+    "method": "Her yan?t alt? etikete 0?3 kurgusal puan ekler. En y?ksek toplam g?sterilir; e?itlikte liste s?ras? kullan?l?r.",
+    "boundary": "Bu bir d???nme istemidir; tan? veya do?rulanm?? t?kenmi?lik de?erlendirmesi de?ildir.",
+    "source": "DS?: mesleki bir olgu olarak t?kenmi?lik"
   },
   "button": {
     "start": "Tükenmişlik Tipini Keşfet",
     "retry": "Tekrar Dene",
-    "share_kakao": "KakaoTalk",
-    "share_twitter": "Twitter",
-    "share_facebook": "Facebook",
-    "share_copy": "Bağlantıyı Kopyala"
+    "share": "Tarafs?z ba?lant?y? payla?"
   },
   "question": {
     "0": "Hafta sonlarını nasıl geçirirsin?",
+    "1": "Sabah uyandığında ilk ne hissediyorsun?",
+    "2": "Bir iş arkadaşının desteğe ihtiyacı var. Tepkin ne?",
+    "3": "Mesai sonrası bir iş bildirimi alıyorsun. Ne olur?",
+    "4": "Büyük bir görevi bitirdin. Nasıl hissediyorsun?",
+    "5": "Son zamanlarda yaratıcı fikirlerin nasıl?",
+    "6": "Son zamanlarda enerjin nereden geliyor?",
+    "7": "İşinin amacı hakkında ne hissediyorsun?",
     "0a": "Hafta içinde bitiremediğim işleri yetiştiriyorum",
     "0b": "Arkadaşlarıma/aileme sorunlarında yardım ediyorum",
     "0c": "Anlamsızca ekranı kaydırıyorum, anlamlı bir şey yapmak için çok sıkılmış haldeyim",
     "0d": "Dinleniyorum ama üretken olmadığım için suçluluk duyuyorum",
-    "1": "Sabah uyandığında ilk ne hissediyorsun?",
     "1a": "Yataktan kalkmadan e-postalarımı kontrol ediyorum bile",
     "1b": "Korku. Sadece günün geleceğine dair saf bir korku.",
     "1c": "İlhamsız. Aynı rutinin bir günü daha.",
     "1d": "Kopuk, sanki otopilottaymışım gibi",
-    "2": "Bir iş arkadaşının desteğe ihtiyacı var. Tepkin ne?",
     "2a": "Her şeyi bırakıp duygusal olarak destek oluyorum",
     "2b": "Görevlerde yardım teklif ediyorum (duygularla uğraşmaktan daha kolay)",
     "2c": "Etkileşimden kaçınıyorum, verecek hiçbir şeyim kalmadı",
     "2d": "Kibar bir şekilde dinliyorum ama içten içe tamamen boş hissediyorum",
-    "3": "Mesai sonrası bir iş bildirimi alıyorsun. Ne olur?",
     "3a": "Hemen yanıtlıyorum — sınırlar bir efsane",
     "3b": "Görmezden geliyorum ama bütün gece onun için endişeleniyorum",
     "3c": "Kişisel zamanımın bölünmesine sinirleniyorum",
     "3d": "Sürekli dijital müdahaleden tükenmiş hissediyorum",
-    "4": "Büyük bir görevi bitirdin. Nasıl hissediyorsun?",
     "4a": "Hiçbir şey yeterli gelmiyor, zaten sıradakini düşünüyorum",
     "4b": "Değerimi kanıtlamak için kendimi daha da zorluyorum",
     "4c": "Kesinlikle hiçbir şey hissetmiyorum. Tatmin yok.",
     "4d": "İşime karşı hissettiğim o eski kıvılcımı bulamıyorum",
-    "5": "Son zamanlarda yaratıcı fikirlerin nasıl?",
     "5a": "Tamamen kurudu. Kuyu boş.",
     "5b": "Artık umurumda değil. Fikirler anlamsız geliyor.",
     "5c": "İlham almadan bile üretmeye kendimi zorluyorum",
     "5d": "Fikirlerimi başkalarına veriyorum çünkü uygulamak için çok yorgunum",
-    "6": "Son zamanlarda enerjin nereden geliyor?",
     "6a": "Saf kafein ve irade gücü",
     "6b": "Numara yaparak. İyi olduğumu iddia ediyorum ama değilim.",
     "6c": "Hiçbir yerden. Tamamen tükendim.",
     "6d": "Ekran süresi paradoksal olarak beni daha da tüketiyor",
-    "7": "İşinin amacı hakkında ne hissediyorsun?",
     "7a": "Bunu neden yaptığıma dair tüm anlam duygusunu yitirdim",
     "7b": "Sürekli değerimi ve yeterliliğimi kanıtlamaya çalışıyorum",
     "7c": "Sadece başkalarına yardım etmekte amaç buluyorum, kendim için değil",
@@ -74,25 +73,19 @@
   },
   "analyzing": {
     "title": "Tükenmişlik örüntülerin analiz ediliyor...",
-    "scanning": "Stres seviyeleri taranıyor...",
-    "matching": "Tükenmişlik tipleriyle eşleştiriliyor...",
-    "comparing": "İyileşme örüntüleri karşılaştırılıyor...",
-    "complete": "Analiz tamamlandı!"
+    "scanning": "Yan?tlar?n inceleniyor...",
+    "matching": "Yay?mlanm?? puanlar ekleniyor...",
+    "comparing": "En y?ksek etiket bulunuyor...",
+    "complete": "Sonucun haz?r."
   },
   "result": {
-    "your_type": "Tükenmişlik Tipin",
-    "burnout_metrics": "Tükenmişlik Boyutları",
+    "your_type": "D???nme ?r?nt?n",
     "key_traits": "Temel Örüntüler",
-    "moreTests": "Daha Fazla Keşfet",
-    "share": "Sonucunu Paylaş",
-    "percentile": "Tüm katılımcıların yalnızca {pct} kadarı {type} tükenmişliği yaşıyor"
-  },
-  "metric": {
-    "workload": "İş Yükü",
-    "emotionalDrain": "Duygusal Tükenme",
-    "cynicism": "Sinizm",
-    "efficacy": "Etkinlik",
-    "recovery": "İyileşme"
+    "share": "D???nme arac?n? payla?",
+    "boundary_note": "Bu etiket kurgusal bir d???nme ipucudur; ?l??m, tan? veya ba?kalar?yla kar??la?t?rma de?ildir.",
+    "next_title": "Bir sonraki ad?m se?",
+    "primary_action": "G?ncel stres sinyallerini kontrol et",
+    "guide_action": "Pratik stres ad?mlar?n? oku"
   },
   "type": {
     "overachiever": {
@@ -145,16 +138,9 @@
     }
   },
   "share": {
-    "text": "Benim tükenmişlik tipim '{type}'! Seninki ne?"
-  },
-  "related": {
-    "stressCheck": "Stres Kontrolü",
-    "hspTest": "HSP Testi",
-    "dopamineType": "Dopamin Tipi",
-    "overthinkerTest": "Aşırı Düşünme Testi",
-    "stressResponse": "Stres Tepkisi",
-    "anxietyType": "Kaygı Tipi",
-    "hailMaryMode": "Hail Mary Mode Test"
+    "text": "Sekiz senaryolu bu i? stresi d???nme arac?n? deneyin.",
+    "success": "Ba?lant? payla??ld? veya kopyaland?.",
+    "unavailable": "Payla??m tamamlanmad?."
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"

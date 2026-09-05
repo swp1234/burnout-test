@@ -5,68 +5,67 @@
     "skipLink": "Zum Hauptinhalt springen"
   },
   "meta": {
-    "description": "Welcher Burnout-Typ bist du? Mach dieses virale Quiz mit 8 Fragen und entdecke dein berufliches und emotionales Burnout-Muster!",
+    "description": "Nutze 8 Arbeitssituationen zur Reflexion ?ber eines von sechs erstellten Mustern. Keine Diagnose oder validierte Burnout-Bewertung.",
     "keywords": "Burnout-Test, Burnout-Typ, Stresstest, Arbeits-Burnout, emotionales Burnout, berufliches Burnout",
     "og_title": "Burnout-Test - Welcher Burnout-Typ bist du?",
-    "og_description": "8 Fragen enthüllen deinen Burnout-Typ!",
+    "og_description": "Nutze 8 Arbeitssituationen zur Reflexion ?ber eines von sechs erstellten Mustern. Keine Diagnose oder validierte Burnout-Bewertung.",
     "twitter_title": "Burnout-Test - Welcher Burnout-Typ bist du?",
-    "twitter_description": "8 Fragen enthüllen deinen Burnout-Typ!",
+    "twitter_description": "Nutze 8 Arbeitssituationen zur Reflexion ?ber eines von sechs erstellten Mustern. Keine Diagnose oder validierte Burnout-Bewertung.",
     "page_title": "Burnout-Test - Welcher Burnout-Typ bist du? | DopaBrain"
   },
   "intro": {
     "title": "Burnout-Test",
     "subtitle": "Welcher Burnout-Typ bist du?",
-    "social_proof": "Personen getestet",
     "feature_types": "6 Burnout-Typen",
     "feature_questions": "8 Stress-Szenarien",
-    "feature_metrics": "5 Burnout-Dimensionen",
-    "time_estimate": "Dauert etwa 1 Minute"
+    "time_estimate": "Dauert etwa 1 Minute",
+    "feature_method": "Ver?ffentlichte Bewertungsregel",
+    "method": "Jede Antwort addiert 0?3 erstellte Punkte zu sechs Labels. Die h?chste Summe wird angezeigt; Gleichst?nde folgen der Listenreihenfolge.",
+    "boundary": "Dies ist ein Reflexionsimpuls, keine Diagnose oder validierte Burnout-Bewertung.",
+    "source": "WHO: Burnout als berufliches Ph?nomen"
   },
   "button": {
     "start": "Entdecke deinen Burnout-Typ",
     "retry": "Nochmal versuchen",
-    "share_kakao": "KakaoTalk",
-    "share_twitter": "Twitter",
-    "share_facebook": "Facebook",
-    "share_copy": "Link kopieren"
+    "share": "Neutralen Link teilen"
   },
   "question": {
     "0": "Wie verbringst du deine Wochenenden?",
+    "1": "Wie fühlst du dich morgens als Erstes?",
+    "2": "Ein Kollege braucht Unterstützung. Wie reagierst du?",
+    "3": "Du bekommst nach Feierabend eine Arbeitsbenachrichtigung. Was passiert?",
+    "4": "Du hast eine große Aufgabe erledigt. Wie fühlst du dich?",
+    "5": "Wie steht es um deine kreativen Ideen in letzter Zeit?",
+    "6": "Woher kommt deine Energie in letzter Zeit?",
+    "7": "Wie fühlst du dich über den Sinn deiner Arbeit?",
     "0a": "Ich hole Arbeit nach, die ich unter der Woche nicht geschafft habe",
     "0b": "Ich helfe Freunden/Familie mit ihren Problemen",
     "0c": "Gedankenlos scrollen, zu gelangweilt für etwas Sinnvolles",
     "0d": "Ausruhen, aber mit Schuldgefühlen, weil ich nicht produktiv bin",
-    "1": "Wie fühlst du dich morgens als Erstes?",
     "1a": "Ich checke schon E-Mails, bevor ich aus dem Bett steige",
     "1b": "Angst. Einfach pure Angst vor dem kommenden Tag.",
     "1c": "Uninspiriert. Noch ein Tag der gleichen Routine.",
     "1d": "Abgetrennt, als wäre ich auf Autopilot",
-    "2": "Ein Kollege braucht Unterstützung. Wie reagierst du?",
     "2a": "Alles stehen und liegen lassen, um emotional zu unterstützen",
     "2b": "Hilfe bei Aufgaben anbieten (einfacher als Gefühle)",
     "2c": "Interaktion vermeiden, ich habe nichts mehr zu geben",
     "2d": "Höflich zuhören, mich aber innerlich komplett leer fühlen",
-    "3": "Du bekommst nach Feierabend eine Arbeitsbenachrichtigung. Was passiert?",
     "3a": "Sofort antworten — Grenzen sind ein Mythos",
     "3b": "Ignorieren, aber die ganze Nacht deswegen ängstlich sein",
     "3c": "Genervt sein, dass meine persönliche Zeit unterbrochen wird",
     "3d": "Erschöpft fühlen durch die ständige digitale Störung",
-    "4": "Du hast eine große Aufgabe erledigt. Wie fühlst du dich?",
     "4a": "Nichts fühlt sich je genug an, ich denke schon an das Nächste",
     "4b": "Mich noch härter antreiben, um meinen Wert zu beweisen",
     "4c": "Absolut nichts fühlen. Keine Zufriedenheit.",
     "4d": "Den Funken nicht mehr finden, den ich früher für meine Arbeit hatte",
-    "5": "Wie steht es um deine kreativen Ideen in letzter Zeit?",
     "5a": "Völlig versiegt. Der Brunnen ist leer.",
     "5b": "Es ist mir egal. Ideen fühlen sich sinnlos an.",
     "5c": "Mich zwingen zu produzieren, auch wenn ich nicht inspiriert bin",
     "5d": "Meine Ideen verschenken, weil ich zu müde bin, sie umzusetzen",
-    "6": "Woher kommt deine Energie in letzter Zeit?",
     "6a": "Pures Koffein und schiere Willenskraft",
     "6b": "Vortäuschen. Ich tue so, als wäre alles in Ordnung, aber ist es nicht.",
     "6c": "Nirgendwoher. Ich bin komplett erschöpft.",
     "6d": "Bildschirmzeit macht mich paradoxerweise noch erschöpfter",
-    "7": "Wie fühlst du dich über den Sinn deiner Arbeit?",
     "7a": "Jegliches Gefühl für Sinn oder warum ich das mache, verloren",
     "7b": "Ständig versuchen, meinen Wert zu beweisen",
     "7c": "Nur im Helfen anderer einen Sinn finden, nicht für mich selbst",
@@ -74,25 +73,19 @@
   },
   "analyzing": {
     "title": "Deine Burnout-Muster werden analysiert...",
-    "scanning": "Stresslevel werden gescannt...",
-    "matching": "Abgleich mit Burnout-Typen...",
-    "comparing": "Erholungsmuster werden verglichen...",
-    "complete": "Analyse abgeschlossen!"
+    "scanning": "Antworten werden gepr?ft...",
+    "matching": "Ver?ffentlichte Punkte werden addiert...",
+    "comparing": "H?chstes Label wird ermittelt...",
+    "complete": "Deine Reflexion ist bereit."
   },
   "result": {
-    "your_type": "Dein Burnout-Typ",
-    "burnout_metrics": "Burnout-Dimensionen",
+    "your_type": "Dein Reflexionsmuster",
     "key_traits": "Wichtige Muster",
-    "moreTests": "Mehr entdecken",
-    "share": "Teile dein Ergebnis",
-    "percentile": "Nur {pct} aller Teilnehmer erleben Burnout vom Typ {type}"
-  },
-  "metric": {
-    "workload": "Arbeitsbelastung",
-    "emotionalDrain": "Emotionale Erschöpfung",
-    "cynicism": "Zynismus",
-    "efficacy": "Wirksamkeit",
-    "recovery": "Erholung"
+    "share": "Reflexion teilen",
+    "boundary_note": "Dieses Label ist ein erstellter Reflexionsimpuls, kein Messwert, keine Diagnose und kein Vergleich mit anderen.",
+    "next_title": "W?hle einen n?chsten Schritt",
+    "primary_action": "Aktuelle Stresssignale pr?fen",
+    "guide_action": "Praktische Stressschritte lesen"
   },
   "type": {
     "overachiever": {
@@ -145,16 +138,9 @@
     }
   },
   "share": {
-    "text": "Mein Burnout-Typ ist '{type}'! Was ist deiner?"
-  },
-  "related": {
-    "stressCheck": "Stress-Check",
-    "hspTest": "HSP-Test",
-    "dopamineType": "Dopamin-Typ",
-    "overthinkerTest": "Grübler-Test",
-    "stressResponse": "Stressreaktion",
-    "anxietyType": "Angsttyp",
-    "hailMaryMode": "Hail Mary Mode Test"
+    "text": "Probiere diese Reflexion mit acht Situationen zu Arbeitsstress.",
+    "success": "Link geteilt oder kopiert.",
+    "unavailable": "Teilen wurde nicht abgeschlossen."
   },
   "game": {
     "back": "DopaBrain Startseite"

@@ -1,8 +1,9 @@
 {
-  "name": "Burnout Test - Professional Burnout Quiz",
-  "short_name": "Burnout Test",
-  "description": "Discover your burnout type through 8 questions about professional stress and emotional exhaustion",
+  "name": "Burnout Pattern Reflection",
+  "short_name": "Burnout Reflection",
+  "description": "An eight-scenario reflection with an authored scoring rule; not a diagnostic assessment",
   "start_url": "/burnout-test/",
+  "scope": "/burnout-test/",
   "display": "standalone",
   "background_color": "#0a0f1e",
   "theme_color": "#ef4444",
