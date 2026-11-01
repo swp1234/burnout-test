@@ -174,8 +174,30 @@ class BurnoutApp {
         }
 
         document.getElementById('share-reflection')?.addEventListener('click', () => this.shareReflection());
-        document.getElementById('next-stress-check')?.addEventListener('click', () => this.trackOnce('burnout_next_step_click'));
-        document.getElementById('next-stress-guide')?.addEventListener('click', () => this.trackOnce('burnout_guide_click'));
+        document.getElementById('next-stress-check')?.addEventListener('click', () => {
+            this.trackOnce('burnout_next_step_click');
+            const link = document.getElementById('next-stress-check');
+            if (typeof gtag === 'function' && link) {
+                gtag('event', 'content_cta_click', {
+                    event_category: 'engagement',
+                    page_path: location.pathname,
+                    target_url: link.href,
+                    link_id: 'burnout_next_stress_check'
+                });
+            }
+        });
+        document.getElementById('next-stress-guide')?.addEventListener('click', () => {
+            this.trackOnce('burnout_guide_click');
+            const link = document.getElementById('next-stress-guide');
+            if (typeof gtag === 'function' && link) {
+                gtag('event', 'content_cta_click', {
+                    event_category: 'engagement',
+                    page_path: location.pathname,
+                    target_url: link.href,
+                    link_id: 'burnout_next_stress_guide'
+                });
+            }
+        });
     }
 
     sanitizeUrl() {
@@ -188,8 +210,8 @@ class BurnoutApp {
 
     syncLocalizedActions() {
         const lang = window.i18n?.getCurrentLanguage() || 'en';
-        document.getElementById('next-stress-check')?.setAttribute('href', `/stress-check/?lang=${lang}`);
-        document.getElementById('next-stress-guide')?.setAttribute('href', `/portal/blog/${lang}/stress-management-techniques-guide.html`);
+        document.getElementById('next-stress-check')?.setAttribute('href', `/stress-check/?lang=${encodeURIComponent(lang)}&source=burnout_test`);
+        document.getElementById('next-stress-guide')?.setAttribute('href', `/portal/blog/${encodeURIComponent(lang)}/stress-management-techniques-guide.html?source=burnout_test`);
     }
 
     trackOnce(name) {
