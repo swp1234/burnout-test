@@ -177,9 +177,14 @@ class BurnoutApp {
         document.getElementById('next-stress-check')?.addEventListener('click', () => {
             this.trackOnce('burnout_next_step_click');
             const link = document.getElementById('next-stress-check');
+            const lang = window.i18n?.getCurrentLanguage() || 'en';
             if (typeof gtag === 'function' && link) {
                 gtag('event', 'content_cta_click', {
                     event_category: 'engagement',
+                    cta_surface: 'burnout_result_stress_check',
+                    destination: link.getAttribute('href'),
+                    source: 'burnout_test',
+                    lang: lang,
                     page_path: location.pathname,
                     target_url: link.href,
                     link_id: 'burnout_next_stress_check'
@@ -189,9 +194,14 @@ class BurnoutApp {
         document.getElementById('next-stress-guide')?.addEventListener('click', () => {
             this.trackOnce('burnout_guide_click');
             const link = document.getElementById('next-stress-guide');
+            const lang = window.i18n?.getCurrentLanguage() || 'en';
             if (typeof gtag === 'function' && link) {
                 gtag('event', 'content_cta_click', {
                     event_category: 'engagement',
+                    cta_surface: 'burnout_result_guide',
+                    destination: link.getAttribute('href'),
+                    source: 'burnout_test',
+                    lang: lang,
                     page_path: location.pathname,
                     target_url: link.href,
                     link_id: 'burnout_next_stress_guide'
@@ -415,6 +425,7 @@ class BurnoutApp {
         // Confetti
         this.spawnConfetti();
 
+        this.syncLocalizedActions();
         this.hasCompleted = true;
         this.trackOnce('burnout_reflection_complete');
     }

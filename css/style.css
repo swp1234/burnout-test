@@ -777,13 +777,16 @@ body {
 
 .related-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 10px;
 }
 
 .related-card {
     display: flex;
     align-items: center;
+    min-width: 0;
+    min-height: 44px;
+    box-sizing: border-box;
     gap: 8px;
     padding: 12px;
     background: var(--glass-bg);
@@ -805,8 +808,14 @@ body {
     background: rgba(245,158,11,0.1);
 }
 
-.related-emoji { font-size: 20px; }
-.related-name { font-size: 13px; font-weight: 600; }
+.related-emoji { font-size: 20px; flex-shrink: 0; }
+.related-name {
+    font-size: 13px;
+    font-weight: 600;
+    min-width: 0;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
 
 /* Share Section */
 .share-section {
