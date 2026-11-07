@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "Inicio DopaBrain"
+  },
+  "about": {
+    "summaryTitle": "Guía de Tipos de Burnout: Modelo Maslach y FAQ",
+    "scienceDesc": "La OMS (CIE-11 QD85) define el burnout como un fenómeno ocupacional derivado del estrés crónico no gestionado en el trabajo. Según Christina Maslach, abarca agotamiento emocional, despersonalización y baja realización personal.",
+    "boundary": "Aviso laboral: Esta herramienta es una guía educativa de autorreflexión y no constituye un diagnóstico médico o psiquiátrico formal.",
+    "patternsHeading": "Seis Patrones de Burnout Laboral",
+    "typeOverachiever": "Perfeccionista (Overachiever):",
+    "descOverachiever": "Culpa durante el descanso y sobrecarga de responsabilidades que llevan al colapso físico.",
+    "typeEmpath": "Empático:",
+    "descEmpath": "Fatiga por compasión tras absorber la angustia de otros sin límites personales.",
+    "typeBoredom": "Estancamiento (Boreout):",
+    "descBoredom": "Monotonía extrema y falta de desafíos que provocan agotamiento por subestimulación.",
+    "typeInvisible": "Burnout Invisible:",
+    "descInvisible": "Apariencia de alto rendimiento que oculta un colapso emocional interno.",
+    "typeCreative": "Agotamiento Creativo:",
+    "descCreative": "Pérdida total de inspiración por exigencias continuas y agotamiento cognitivo.",
+    "typeDigital": "Sobrecarga Digital:",
+    "descDigital": "Fatiga de pantalla e hiperconectividad constante sin recarga mental.",
+    "faqTitle": "Preguntas Frecuentes (FAQ)",
+    "faq1Q": "Q: ¿Cuáles son las tres dimensiones de Maslach?",
+    "faq1A": "A: Agotamiento emocional (falta de energía), cinismo (desapego frío) e ineficacia profesional.",
+    "faq2Q": "Q: ¿Qué diferencia al estrés del burnout?",
+    "faq2A": "A: El estrés implica exceso de compromiso; el burnout se manifiesta como vacío y desapego total.",
+    "faq3Q": "Q: ¿Es un diagnóstico clínico?",
+    "faq3A": "A: No. Es un cuestionario educativo para identificar patrones de estrés laboral.",
+    "faq4Q": "Q: ¿Se transmiten mis datos?",
+    "faq4A": "A: En absoluto. Todo el análisis se realiza de forma privada en su navegador.",
+    "reviewDate": "Revisión editorial: noviembre de 2026",
+    "reviewTeam": "Equipo de Bienestar Laboral DopaBrain"
   }
 }

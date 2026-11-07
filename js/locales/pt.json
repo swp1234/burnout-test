@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "Início DopaBrain"
+  },
+  "about": {
+    "summaryTitle": "Guia de Tipos de Burnout: Modelo Maslach e FAQ",
+    "scienceDesc": "A OMS (CID-11 QD85) reconhece o burnout como um fenômeno ocupacional originado do estresse crônico no trabalho. Christina Maslach estrutura o quadro em esgotamento emocional, despersonalização/cinismo e baixa realização profissional.",
+    "boundary": "Aviso Profissional: Este teste propõe autorreflexão comportamental e não substitui avaliação médica ou psicológica.",
+    "patternsHeading": "Seis Padrões de Burnout no Trabalho",
+    "typeOverachiever": "O Perfeccionista:",
+    "descOverachiever": "Sentimento de culpa ao descansar e excesso de compromissos levando à exaustão física.",
+    "typeEmpath": "O Empático:",
+    "descEmpath": "Fadiga por compaixão decorrente da absorção das dores alheias sem limites claros.",
+    "typeBoredom": "Boreout / Subestimulação:",
+    "descBoredom": "Tédio crônico, falta de propósito e estagnação intelectual no cotidiano laboral.",
+    "typeInvisible": "Burnout Invisível:",
+    "descInvisible": "Aparência externa impecável disfarçando um colapso interior doloroso.",
+    "typeCreative": "Esgotamento Criativo:",
+    "descCreative": "Bloqueio total de ideias causado pela pressão de entregas ininterruptas.",
+    "typeDigital": "Sobrecarga Digital:",
+    "descDigital": "Fadiga visual e exaustão decorrentes da hiperconectividade contínua.",
+    "faqTitle": "Perguntas Frequentes (FAQ)",
+    "faq1Q": "Q: O que compõe o Inventário de Maslach?",
+    "faq1A": "A: Exaustão emocional, cinismo/distanciamento e baixa eficácia no trabalho.",
+    "faq2Q": "Q: Estresse e burnout são a mesma coisa?",
+    "faq2A": "A: Não. O estresse traz urgência e hiperativação; o burnout traz sensação de vazio e dormência.",
+    "faq3Q": "Q: O resultado serve como laudo médico?",
+    "faq3A": "A: Não. É uma ferramenta de conscientização inicial sobre estresse ocupacional.",
+    "faq4Q": "Q: As respostas ficam gravadas?",
+    "faq4A": "A: De forma alguma. Os cálculos são locais no navegador.",
+    "reviewDate": "Revisão editorial: novembro de 2026",
+    "reviewTeam": "Equipe de Bem-Estar Ocupacional DopaBrain"
   }
 }

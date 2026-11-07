@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"
+  },
+  "about": {
+    "summaryTitle": "Tükenmişlik Rehberi: Maslach Modeli, Belirtiler & SSS",
+    "scienceDesc": "DSÖ (ICD-11 QD85), tükenmişliği yönetilemeyen kronik iş yeri stresinden kaynaklanan mesleki bir durum olarak tanımlar. Christina Maslach modeline göre duygusal tükenme, duyarsızlaşma/kinizm ve düşük başarı hissiyle kendini gösterir.",
+    "boundary": "Mesleki Sınır: Bu değerlendirme davranış kalıplarını anlamaya yönelik eğitici bir araçtır, klinik tıbbi tanı yerine geçmez.",
+    "patternsHeading": "Altı Tükenmişlik Davranış Kalıbı",
+    "typeOverachiever": "Aşırı Başarı Odaklı:",
+    "descOverachiever": "Dinlenirken suçluluk duyma ve sınır koyamama nedeniyle bedensel tükenme.",
+    "typeEmpath": "Aşırı Empatik:",
+    "descEmpath": "Başkalarının dertlerini sınır koymaksızın yüklenmekten doğan merhamet yorgunluğu.",
+    "typeBoredom": "Monotonluk (Boreout):",
+    "descBoredom": "Gelişim fırsatının ve anlamın yokluğuyla ortaya çıkan kronik zihinsel durgunluk.",
+    "typeInvisible": "Görünmez Tükenmişlik:",
+    "descInvisible": "Dışarıdan kusursuz görünürken içeride sessizce çöküş yaşama durumu.",
+    "typeCreative": "Yaratıcı Tükenmişlik:",
+    "descCreative": "Sürekli teslim baskısı yüzünden yeni fikir üretme enerjisinin tükenmesi.",
+    "typeDigital": "Dijital Aşırı Yüklenme:",
+    "descDigital": "Sürekli bildirimler ve ekran yorgunluğundan kaynaklanan duyusal aşırı yük.",
+    "faqTitle": "Sıkça Sorulan Sorular (SSS)",
+    "faq1Q": "Q: Maslach modelindeki 3 temel boyut nedir?",
+    "faq1A": "A: Duygusal tükenme, duyarsızlaşma (soğuk uzaklaşma) ve mesleki yetersizlik hissi.",
+    "faq2Q": "Q: Stres ile tükenmişlik arasındaki fark nedir?",
+    "faq2A": "A: Stres aşırı çaba ve gerginlikle seyreder; tükenmişlik ise içsel boşluk ve hissizlik yaratır.",
+    "faq3Q": "Q: Bu test tıbbi bir rapor niteliğinde midir?",
+    "faq3A": "A: Hayır. Farkındalık geliştirmeyi amaçlayan eğitici bir öz-değerlendirmedir.",
+    "faq4Q": "Q: Yanıtlarım bir yerde toplanıyor mu?",
+    "faq4A": "A: Asla. Tüm süreç yalnızca tarayıcınızda yerel olarak çalışır.",
+    "reviewDate": "Editör İncelemesi: Kasım 2026",
+    "reviewTeam": "DopaBrain Çalışma Psikolojisi Ekibi"
   }
 }

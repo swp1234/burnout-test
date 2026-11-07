@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "Beranda DopaBrain"
+  },
+  "about": {
+    "summaryTitle": "Panduan Tipe Burnout: Model Maslach & FAQ",
+    "scienceDesc": "Burnout diakui WHO (ICD-11 QD85) sebagai fenomena kerja akibat stres kronis di tempat kerja yang belum berhasil dikelola. Christina Maslach membaginya dalam kelelahan emosional, depersonalisasi/sinisme, dan penurunan efikasi kerja.",
+    "boundary": "Batasan Kerja: Alat refleksi ini membantu mengenali tanda stres dan bukan diagnosis medis klinis.",
+    "patternsHeading": "Enam Pola Burnout di Tempat Kerja",
+    "typeOverachiever": "Si Perfeksionis (Overachiever):",
+    "descOverachiever": "Rasa bersalah saat beristirahat dan tanggung jawab berlebih yang menguras fisik.",
+    "typeEmpath": "Si Empatik:",
+    "descEmpath": "Kelelahan berempati akibat menyerap beban orang lain tanpa batasan diri.",
+    "typeBoredom": "Boreout / Kurang Tantangan:",
+    "descBoredom": "Stagnasi mental dan ketiadaan makna akibat tugas rutin yang monoton.",
+    "typeInvisible": "Burnout Tak Kasat Mata:",
+    "descInvisible": "Tampak berfungsi normal di luar namun mengalami kerapuhan mendalam di dalam.",
+    "typeCreative": "Kelelahan Kreatif:",
+    "descCreative": "Kehabisan ide baru akibat beban kognitif berulang tanpa waktu jeda.",
+    "typeDigital": "Beban Digital:",
+    "descDigital": "Kelelahan sensorik akibat konektivitas tanpa henti dan paparan layar konstan.",
+    "faqTitle": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "faq1Q": "Q: Apa tiga dimensi burnout menurut Maslach?",
+    "faq1A": "A: Kelelahan emosional, sikap sinis/menjauh, dan berkurangnya rasa pencapaian.",
+    "faq2Q": "Q: Apa perbedaan stres biasa dan burnout?",
+    "faq2A": "A: Stres melibatkan ketegangan berlebih; burnout ditandai dengan kehampaan dan mati rasa.",
+    "faq3Q": "Q: Apakah ini diagnosis medis?",
+    "faq3A": "A: Bukan. Ini adalah panduan edukatif untuk meningkatkan kesadaran diri.",
+    "faq4Q": "Q: Apakah data saya dicatat?",
+    "faq4A": "A: Tidak pernah. Seluruh pemrosesan berjalan di peramban Anda.",
+    "reviewDate": "Tinjauan Editorial: November 2026",
+    "reviewTeam": "Tim Kesejahteraan Kerja DopaBrain"
   }
 }

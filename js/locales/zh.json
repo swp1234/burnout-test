@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "DopaBrain 主页"
+  },
+  "about": {
+    "summaryTitle": "职业倦怠指南：马斯拉赫模型、症状与常见问题 (FAQ)",
+    "scienceDesc": "世界卫生组织（ICD-11 QD85）将职业倦怠定义为未被成功管理的长期工作压力引发的职业现象。克里斯蒂娜·马斯拉赫模型将其归结为三大维度：情绪衰竭、去人格化/玩世不恭，以及个人成就感低落。",
+    "boundary": "免责声明：本评估为探索职场压力模式的教育性自省工具，不属于临床医学或精神障碍诊断。",
+    "patternsHeading": "六种职业倦怠模式",
+    "typeOverachiever": "完美主义型 (Overachiever):",
+    "descOverachiever": "休息时的负罪感、对任务的过度承担导致的严重身体透支。",
+    "typeEmpath": "共情衰竭型 (The Empath):",
+    "descEmpath": "缺乏心理边界、过度吸收他人负面情绪导致的同情疲劳。",
+    "typeBoredom": "无聊停滞型 (Boreout):",
+    "descBoredom": "重复单调工作、缺乏发展空间引发的认知刺激匮乏与精神枯竭。",
+    "typeInvisible": "隐形倦怠型 (Invisible):",
+    "descInvisible": "表面维持高效工作形象，内心却在崩溃边缘独自挣扎。",
+    "typeCreative": "创意枯竭型 (Creative):",
+    "descCreative": "在高压产出下灵感被榨干，失去创造的激情与冲动。",
+    "typeDigital": "数字过载型 (Digital):",
+    "descDigital": "全天候在线、无休止的消息推送与屏幕使用导致的感官疲劳。",
+    "faqTitle": "常见问题解答 (FAQ)",
+    "faq1Q": "Q: 马斯拉赫倦怠量表的核心三要素是什么？",
+    "faq1A": "A: 情绪耗竭（精疲力竭）、去人格化（冷漠疏离）与职业效能感降低（自感无能）。",
+    "faq2Q": "Q: 压力与职业倦怠的区别在哪里？",
+    "faq2A": "A: 压力表现为过度投入与生理亢奋；倦怠则表现为能量彻底枯竭与情感麻木。",
+    "faq3Q": "Q: 这项评估属于临床诊断吗？",
+    "faq3A": "A: 不属于。这是用于早期压力觉察的教育反思工具，请遵医嘱。",
+    "faq4Q": "Q: 个人选项或结果是否会被上传？",
+    "faq4A": "A: 绝不。所有运算均在本地浏览器中即时运行，不保存任何隐私。",
+    "reviewDate": "编辑审核：2026年11月",
+    "reviewTeam": "DopaBrain职场心理学研究组"
   }
 }

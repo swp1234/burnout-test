@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "DopaBrain Startseite"
+  },
+  "about": {
+    "summaryTitle": "Burnout-Leitfaden: Maslach-Modell, Symptome & FAQ",
+    "scienceDesc": "Die WHO (ICD-11 QD85) stuft Burnout als berufliches Phänomen ein, das durch chronischen Arbeitsstress verursacht wird. Nach Christina Maslach gliedert es sich in emotionale Erschöpfung, Depersonalisierung/Zynismus und reduzierte Leistungsfähigkeit.",
+    "boundary": "Beruflicher Hinweis: Dieses Tool dient der Selbstreflexion von Verhaltensmustern und stellt keine medizinische Diagnose dar.",
+    "patternsHeading": "Sechs Verhaltensmuster bei Burnout",
+    "typeOverachiever": "Der Perfektionist:",
+    "descOverachiever": "Schuldgefühle beim Ausruhen und Hyper-Verantwortlichkeit bis zur Erschöpfung.",
+    "typeEmpath": "Der Empathische:",
+    "descEmpath": "Mitgefühlserschöpfung durch ungeschützte Übernahme fremder Belastungen.",
+    "typeBoredom": "Boreout / Unterforderung:",
+    "descBoredom": "Geistiger Stillstand und Sinnleere durch monotone Arbeitsabläufe.",
+    "typeInvisible": "Unsichtbares Burnout:",
+    "descInvisible": "Hochfunktionale Fassade bei gleichzeitigem inneren Zusammenbruch.",
+    "typeCreative": "Kreatives Burnout:",
+    "descCreative": "Vollständiges Versiegen von Ideen durch Dauerstress und kognitive Entleerung.",
+    "typeDigital": "Digitales Burnout:",
+    "descDigital": "Reizüberflutung durch ständige Erreichbarkeit und Bildschirmermüdung.",
+    "faqTitle": "Häufig gestellte Fragen (FAQ)",
+    "faq1Q": "Q: Was sind die drei Säulen nach Maslach?",
+    "faq1A": "A: Emotionale Erschöpfung, Zynismus (Distanzierung) und geminderte Arbeitsleistung.",
+    "faq2Q": "Q: Wie unterscheiden sich Stress und Burnout?",
+    "faq2A": "A: Stress ist geprägt von Überaktivität; Burnout von Leere, emotionaler Abstumpfung und Erschöpfung.",
+    "faq3Q": "Q: Ersetzt der Test einen Arztbesuch?",
+    "faq3A": "A: Nein. Es ist ein edukativer Impuls zur Früherkennung von Stressmustern.",
+    "faq4Q": "Q: Werden Antworten gespeichert?",
+    "faq4A": "A: Niemals. Die Auswertung findet ausschließlich lokal im Browser statt.",
+    "reviewDate": "Redaktionelle Prüfung: November 2026",
+    "reviewTeam": "DopaBrain Arbeitspsychologie-Team"
   }
 }

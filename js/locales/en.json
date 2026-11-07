@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "DopaBrain Home"
+  },
+  "about": {
+    "summaryTitle": "About Burnout Types: Maslach Model, Symptoms & FAQ",
+    "scienceDesc": "Burnout is recognized by the World Health Organization (ICD-11 QD85) as an occupational phenomenon resulting from chronic workplace stress. According to Christina Maslach's research, burnout manifests through emotional exhaustion, cynicism/depersonalization, and reduced professional efficacy.",
+    "boundary": "Occupational Boundary: This reflection tool helps identify behavioral stress patterns. It is an educational prompt, not a clinical psychiatric diagnosis or medical assessment.",
+    "patternsHeading": "Six Authored Burnout Patterns",
+    "typeOverachiever": "The Overachiever:",
+    "descOverachiever": "Perfectionism, guilt during rest, and hyper-responsibility leading to physical exhaustion.",
+    "typeEmpath": "The Empath:",
+    "descEmpath": "Compassion fatigue from absorbing colleagues' emotional distress without personal boundaries.",
+    "typeBoredom": "Boredom / Under-Challenge:",
+    "descBoredom": "Boreout from monotonous tasks, lack of growth, and severe mental stagnation.",
+    "typeInvisible": "Invisible Burnout:",
+    "descInvisible": "High-functioning exterior masking internal emotional collapse and solitary struggle.",
+    "typeCreative": "Creative Burnout:",
+    "descCreative": "Inability to produce novel ideas due to cognitive depletion and constant client demands.",
+    "typeDigital": "Digital Burnout:",
+    "descDigital": "Sensory overload from notifications, constant connectivity, and screen fatigue.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Q": "Q: How does the Maslach Burnout framework define burnout?",
+    "faq1A": "A: Maslach identifies three core dimensions: emotional exhaustion (feeling drained), depersonalization (cynical detachment), and reduced personal efficacy (feeling ineffective).",
+    "faq2Q": "Q: What is the difference between stress and burnout?",
+    "faq2A": "A: Stress involves too much pressure and over-engagement; burnout is characterized by depletion, emptiness, emotional numbness, and disengagement.",
+    "faq3Q": "Q: Is this self-assessment a medical diagnosis?",
+    "faq3A": "A: No. It is an educational tool reflecting work-stress patterns, not a clinical diagnosis. Consult medical professionals for clinical evaluation.",
+    "faq4Q": "Q: Are my responses and results stored or tracked?",
+    "faq4A": "A: Never. All calculations are executed locally in your browser. No workplace choices, answers, or burnout scores are collected or stored.",
+    "reviewDate": "Editorial Review: November 2026",
+    "reviewTeam": "DopaBrain Occupational Wellbeing Team"
   }
 }

@@ -144,5 +144,34 @@
   },
   "game": {
     "back": "Accueil DopaBrain"
+  },
+  "about": {
+    "summaryTitle": "Guide du Burnout: Modèle Maslach, Signes & FAQ",
+    "scienceDesc": "L'OMS (CIM-11 QD85) qualifie le burnout de phénomène lié au travail résultant d'un stress chronique mal géré. Selon Christina Maslach, il se définit par l'épuisement émotionnel, la dépersonnalisation et la perte d'efficacité professionnelle.",
+    "boundary": "Avertissement: Cet exercice est une grille d'introspection éducative et ne remplace pas un diagnostic médical.",
+    "patternsHeading": "Six Profils d'Épuisement Professionnel",
+    "typeOverachiever": "Le Perfectionniste:",
+    "descOverachiever": "Culpabilité au repos et hyper-responsabilité menant à l'épuisement physique.",
+    "typeEmpath": "L'Empathique:",
+    "descEmpath": "Fatigue compassionnelle par absorption des difficultés d'autrui sans filtre.",
+    "typeBoredom": "Sous-stimulation (Boreout):",
+    "descBoredom": "Monotonie et manque de sens provoquant une inertie mentale profonde.",
+    "typeInvisible": "Burnout Invisible:",
+    "descInvisible": "Façade d'efficacité impeccable masquant une détresse intérieure aiguë.",
+    "typeCreative": "Épuisement Créatif:",
+    "descCreative": "Perte de souffle créatif sous la pression d'objectifs continus.",
+    "typeDigital": "Surcharge Numérique:",
+    "descDigital": "Fatigue cognitive due aux écrans et aux notifications permanentes.",
+    "faqTitle": "Foire Aux Questions (FAQ)",
+    "faq1Q": "Q: Quelles sont les trois dimensions du modèle Maslach?",
+    "faq1A": "A: Épuisement émotionnel (vidé), dépersonnalisation (cynisme) et diminution de l'accomplissement.",
+    "faq2Q": "Q: Quelle différence entre stress et burnout?",
+    "faq2A": "A: Le stress implique un surinvestissement; le burnout se traduit par un désengagement et un vide affectif.",
+    "faq3Q": "Q: S'agit-il d'une évaluation psychiatrique?",
+    "faq3A": "A: Non, c'est un support d'aide à la prise de recul professionnelle.",
+    "faq4Q": "Q: Mes réponses sont-elles transmises?",
+    "faq4A": "A: Non, l'intégralité des calculs s'effectue localement dans votre navigateur.",
+    "reviewDate": "Validation éditoriale: novembre 2026",
+    "reviewTeam": "Équipe Santé au Travail DopaBrain"
   }
 }
